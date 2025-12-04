@@ -120,7 +120,7 @@ Click [here](https://seec.colorado.edu/system/pdfs/first_floor.pdf) for a map of
 ***Let us know if you need something to be able to participate comfortably.***
 
 ### Venue Parking
-For those who will need to park a vehicle on campus to attend the Summit, please complete this [form](https://docs.google.com/forms/d/e/1FAIpQLSdQ0pxbRH47CynESuFE6bLnLuxWYVt8Dvk0hDoEHPNEHAvPPA/viewform?usp=dialog) to receive event parking permit instructions and voucher code for [lot 556](https://maps.app.goo.gl/os9MKRrer9GKKYrv8). Note that due to University policy, University of Colorado employees and students are not allowed to use this voucher code.  Follow the permit instructions to claim your $0 permit. Guests only need to claim one permit for the week as it will last from 09/22-09/25. 
+For those who will need to park a vehicle on campus to attend the Summit, we will provide a form in May to receive a parking permit and voucher code. Note that due to University policy, University of Colorado employees and students are not allowed to use this voucher code.  Follow the permit instructions to claim your $0 permit. Guests only need to claim one permit for the week as it will last from 05/11-05/14. 
 
 ### Health & Safety Resources
 * Campus and Off-Campus Emergencies 911
