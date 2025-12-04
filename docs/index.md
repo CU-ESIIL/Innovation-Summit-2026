@@ -1,4 +1,4 @@
-![header](assets/esiil_content/Summitheader2026.png)
+![header](assets/esiil_content/2026header_new.png)
 
 !!! Success "Almost here!"
 
@@ -51,7 +51,7 @@ The goals of the 2026 ESIIL Innovation Summit are to:
 <div class="grid cards" markdown>
 
 -   :material-database:{ .feature-ico } **Big Data & Cyberinfrastructure**  
-    Access cutting-edge AI and data analysis tools to explore tipping points—ecological and social dynamics of systems in transformation.
+    Access cutting-edge AI and data analysis tools to explore sustainability solutions.
 
 -   :material-account-group:{ .feature-ico } **Collaborative “Unconference”**  
     Flexible, participant-driven sessions where attendees shape their own experience, collaborate on inspiring projects, and foster innovation.
@@ -70,10 +70,12 @@ The Summit will take the form of an **‘unconference’**, a flexible and inter
 What past attendees had to say:
 
 - “The ESIIL Innovation Summit brings together people… to gain hands-on experience developing innovative science questions, big data tools, and working in a collaborative team.”
+- "I had a fantastic time at the summit making new connections and learning new environmental data science techniques and research topics that has only increased my passion for EDS and interest in participating in an ESIIL working group. The inclusive environment that ESIIL and the Divergent Science team created played a big part in that. Thank you and I’m so grateful for being a part of this summit!”
 - “Get ready to work hard and to grow. You’ll meet a lot of great people from diverse backgrounds.”
 - “A highlight of the Summit was the general atmosphere and community. There’s palpable excitement. The unconference format is different from a typical conference, so people don’t always know what to expect—but that’s part of what makes it so engaging.”
+- “I see solutions that I did not see before the Summit. I see possibilities for collabs I probably would not have encountered without the Summit."
 
-![mentimeter](assets/esiil_content/Mentimeter.png)
+![mentimeter](assets/esiil_content/Summit2026wordcloudnew.png)
 
 ## Training Opportunities
 To prepare for the theme and goals of the Summit, all attendees will be invited to virtual training and networking opportunities prior to the event. **Virtual opportunities may include:**
@@ -86,11 +88,11 @@ To prepare for the theme and goals of the Summit, all attendees will be invited 
 * Team science, community building and collaboration
 
 ## Who Should Attend? 
-The **2026 ESIIL Innovation Summit** aims to bring together participants passionate about leveraging big data to enhance our understanding of environmental tipping points and transformations. The Summit will focus on identifying opportunities for data synthesis, exploring the cutting-edge capabilities of ESIIL’s cyberinfrastructure, and fostering innovative solutions through collaborative teams. Whether your expertise lies in environmental science, management, or community engagement, this event will offer valuable insights and the chance to collaborate with others from a variety of sectors. We encourage applications from individuals across all career stages and disciplines. 
+The **2026 ESIIL Innovation Summit** aims to bring together participants who are eager to shape the future of AI-driven environmental discovery. The Summit will focus on identifying opportunities for data synthesis, exploring the cutting-edge capabilities of AI, and fostering innovative sustainability solutions through collaborative teams. Whether your expertise lies in environmental science, computer science, management, or community engagement, this event will offer valuable insights and the chance to collaborate with others from a variety of sectors. We encourage applications from individuals across all career stages and disciplines. 
 
 **Registration:** Accepted applicants will be sent a confirmation from to confirm their attendance.
 
-**Finances:** There is no registration fee for accepted participants to attend the Innovation Summit or associated trainings and workshops. A limited number of travel awards of up to $1,200 are available to help defray airfare/mileage and accommodation costs. Simple snacks, beverages, and lunch will be provided during the event. Please understand that there is a lot of uncertainty about the federal budget which may affect NSF and ESIIL’s ability to support travel to the Summit, so please do not book any travel at this time.
+**Finances:** There is no registration fee for accepted participants to attend the Innovation Summit or associated trainings and workshops. A limited number of travel awards of up to $1,200 are available to help defray airfare/mileage and accommodation costs. Simple snacks, beverages, and lunch will be provided during the event. 
 
 ## Venue Information
 The Innovation Summit will be held at the University of Colorado Boulder East Campus [SEEC Building](https://seec.colorado.edu/home), **C120 Auditorium**. 
@@ -130,13 +132,12 @@ For those who will need to park a vehicle on campus to attend the Summit, please
 Access wireless service on campus by selecting UCB Guest Wireless from your available Wi-Fi network options and accepting the terms and conditions upon opening your web browser. You will be prompted to re-accept these terms and conditions periodically. If you encounter difficulty accessing the Internet, call 303-735-HELP (4357) or email help@colorado.edu for assistance during their business hours. Check firewalls or security settings on your computer that could possibly complicate accessing the campus Wi-Fi system before you arrive.
 
 ## Hotels
-We have negotiated rates at two nearby hotels. Please **book by ** to receive this rate:
-
+We have negotiated rates at a nearby hotel. Please **book by ** to receive this rate:
 
 ### [Homewood Suites](https://www.hilton.com/en/hotels/boucohw-homewood-suites-boulder/)
 * Address:4950 Baseline Rd., Boulder, Colorado, 80303
 * $173/night
-* [Booking Link](
+* Booking link coming soon
 
 ## Event Photography
 We plan to take some photos of activities throughout the course of the week for use in internal and external publications. If you do not wish to have your image recorded for distribution, please inform the photographer and/or email Casey.Jenson@colorado.edu. By participating in ESIIL events, you are agreeing to the use of your photos unless you notify us in writing of your desire to opt out of being photographed. 
@@ -146,7 +147,7 @@ Boulder is 5,430 feet in elevation and has a sunny, semi-arid climate. Hydrating
 
 Weather conditions can change rapidly throughout each day and from day to day. Layers are always a good choice.
 
-The average temperature in Boulder in May for a typical day ranges from a high of 65-70 to a low of 35-45 . Some would describe the temperature to be moderately chilly. The general area may also feel breezy. The sun is strong in Boulder, so please bring sunscreen, sunglasses, and a hat. There are many trails near Boulder, so hiking or running shoes and a set of workout clothes can help get you outside during your stay.
+The average temperature in Boulder in May for a typical day ranges from a high of 65-70F to a low of 35-45F. Some would describe the temperature to be moderately chilly. The general area may also feel breezy. The sun is strong in Boulder, so please bring sunscreen, sunglasses, and a hat. There are many trails near Boulder, so hiking or running shoes and a set of workout clothes can help get you outside during your stay.
 
 ## Transportation
 
