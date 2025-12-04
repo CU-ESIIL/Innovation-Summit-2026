@@ -1,64 +1,48 @@
-![header](assets/esiil_content/header.png)
+![header](assets/esiil_content/Summitheader2026.png)
 
 !!! Success "Almost here!"
 
-    September 23-25, 2025
+    May 12-14, 2026
 
     University of Colorado Boulder 
     
 
-# Welcome to the 2025 ESIIL Innovation Summit
-The 2026 [ESIIL](esiil.org) Innovation Summit will focus on **environmental tipping points and transformations**, bringing together scientists, managers, data analysts, and other thought leaders to address environmental challenges. 
+# Welcome to the 2026 ESIIL Innovation Summit
+The 2026 [ESIIL](esiil.org) Innovation Summit will focus on **AI for sustainability**, bringing together teams across academic, federal, industry, and non-profit partners to leverage AI and other analytical approaches to generate new discoveries and insights that will help us better steward our nation’s natural heritage. 
 
-Environmental tipping points—also known as state changes, regime shifts, or type conversions—can occur gradually or suddenly, at varying scales, and significantly alter the ecosystems that sustain life on Earth. Understanding these past and future  transformations and ecological contexts that shape them, is critical for predicting, managing, and mitigating their impacts on both nature and society.
+On a daily basis we are generating more and more data about our living planet, from species to ecosystems, across scales of observation from gene sequencing to drone-based imagery to satellite detections. We need ‘all hands on deck’ to benefit from ideas that come from across sectors, geographies, worldviews/perspectives, and disciplines. Including a spectrum of ideas and voices will ensure scientific innovations matter at local and national scales. 
 
-The 2025 Summit will offer a unique, data-driven opportunity to explore environmental tipping points and transformations through big data. You will work alongside a collaborative group of peers to identify and understand the factors driving these changes and advance data-informed strategies for responding to them.
+Summit attendees will learn about AI methodologies that are available to tackle environmental challenges and how to apply them in their own research and communities. Teams will converge around AI-ready data sets and AI tools to bridge the ideas that come from across sectors, geographies, worldviews, and disciplines. 
 
-## Explore Summit Resources
-
-<div class="summit-buttons">
-  <a class="summit-button" href="https://cu-esiil.github.io/home/">OASIS</a>
-  <a class="summit-button" href="https://cu-esiil.github.io/data-library/innovation-summit-2026/">Tipping Point Data</a>
-  <a class="summit-button" href="https://cu-esiil.github.io/analytics-library/innovation-summit-2026/">Tipping Point Analyses</a>
-  <a class="summit-button" href="https://de.cyverse.org//apps/de/faf1d268-44cc-11ed-9715-008cfa5ae621">Compute Instance</a>
-</div>
+Key potential focus areas include: continental-scale ‘digital twins’ for the U.S., Earth embeddings, emergent combined AI and statistical approaches that enable interpretation of mechanisms, and LLMs for robust discovery in ecology, evolution, and environmental sciences. 
 
 ## Goals
 
-The goals of the 2025 ESIIL Innovation Summit are to: 
+The goals of the 2026 ESIIL Innovation Summit are to: 
 
-- **Explore big data to understand environmental tipping points and transformations** by identifying data synthesis opportunities and utilizing ESIIL cloud-compute capabilities. 
-- **Promote best practices in ethical, open science** by supporting accessibility and usability of environmental data by all stakeholders. 
-- **Champion ethical practices** in environmental science, and encourage the responsible use of AI. 
-- **Support teams** by establishing collaborations around data-inspired themes across different disciplines, sectors, and career stages.
-
-<img align=right src="assets/esiil_content/globe_tipping.png" width="200">
+- Inspire **novel AI** approaches to environmental data 
+- Increase **AI and data skills capabilities** in next-generation workforce
+- Connect communities and foster emergent teams across academic, federal, industry, and non-profit partners to facilitate **data-driven co-development and translation**  
+- **Champion best practices** in environmental data science and the responsible use of AI.  
 
 ## Agenda
 
 <div class="grid cards" markdown>
 
--   :material-school:{ .agenda-ico } **Pre-Summit Trainings**
-    ---
-    - :material-clock: **Tue, Aug 5 · 1–3 PM MT** — *Science Jam: Creative Brainstorming to Inspire Innovation*
-    - :material-clock: **Wed, Sep 3 · 1–3 PM MT** — *Navigating CyVerse & GitHub: Gateway to Advanced Computation*
-    - :material-clock: **Tue, Sep 9 · 1–3 PM MT** — *Creative Data Exploration in the Cloud*
-
--   :material-party-popper:{ .agenda-ico } **2025 ESIIL Innovation Summit**
+-   :material-party-popper:{ .agenda-ico } **2026 ESIIL Innovation Summit**
     ---
     [:material-map-marker: Venue & travel](#venue-information){ .md-button }
-    - **Mon, Sep 22**
+    - **Mon, May 11**
         - :material-account-tie: 1–4 PM MT — *Leadership workshop (invite only)*
-    - **Tue, Sep 23**
-        - :material-coffee: 8:00–9 AM — *Registration & light breakfast*
+    - **Tue, May 12**
+        - :material-coffee: 8:30–9 AM — *Registration & light breakfast*
         - :material-handshake: 9 AM–5 PM — *Summit*
-        - :material-glass-cocktail: 5:15–7:15 PM — *Reception @ Boulder Social, 1600 38th St, Boulder CO*
-    - **Wed, Sep 24**
+    - **Wed, May 13**
         - :material-coffee: 8:30–9 AM — *Light breakfast*
         - :material-handshake: 9 AM–5 PM — *Summit*
-    - **Thu, Sep 25**
+    - **Thu, May 14**
         - :material-coffee: 8:30–9 AM — *Light breakfast*
-        - :material-handshake: 8:45 AM–12 PM — *Summit*
+        - :material-handshake: 8:45 AM–3 PM — *Summit*
 </div>
 
 
@@ -67,7 +51,7 @@ The goals of the 2025 ESIIL Innovation Summit are to:
 <div class="grid cards" markdown>
 
 -   :material-database:{ .feature-ico } **Big Data & Cyberinfrastructure**  
-    Access cutting-edge data analysis tools to explore tipping points—ecological and social dynamics of systems in transformation.
+    Access cutting-edge AI and data analysis tools to explore tipping points—ecological and social dynamics of systems in transformation.
 
 -   :material-account-group:{ .feature-ico } **Collaborative “Unconference”**  
     Flexible, participant-driven sessions where attendees shape their own experience, collaborate on inspiring projects, and foster innovation.
@@ -96,13 +80,13 @@ To prepare for the theme and goals of the Summit, all attendees will be invited 
 
 * Technical trainings in cloud computing (CyVerse and Github)
 * Networking opportunities around the Summit theme
-* Leadership 
-* Cultural intelligence
-* Team science
-* Community building and collaboration
+* Earth Embeddings: Introduction to Earth embeddings and encoding earth data into vector representations
+* Digital Twins: AI and CI tools for continental-scale near-real-time data stream, predictions, and forecasting systems
+* LLMs for robust application in environmental sciences
+* Team science, community building and collaboration
 
 ## Who Should Attend? 
-The **2025 ESIIL Innovation Summit** aims to bring together participants passionate about leveraging big data to enhance our understanding of environmental tipping points and transformations. The Summit will focus on identifying opportunities for data synthesis, exploring the cutting-edge capabilities of ESIIL’s cyberinfrastructure, and fostering innovative solutions through collaborative teams. Whether your expertise lies in environmental science, management, or community engagement, this event will offer valuable insights and the chance to collaborate with others from a variety of sectors. We encourage applications from individuals across all career stages and disciplines. 
+The **2026 ESIIL Innovation Summit** aims to bring together participants passionate about leveraging big data to enhance our understanding of environmental tipping points and transformations. The Summit will focus on identifying opportunities for data synthesis, exploring the cutting-edge capabilities of ESIIL’s cyberinfrastructure, and fostering innovative solutions through collaborative teams. Whether your expertise lies in environmental science, management, or community engagement, this event will offer valuable insights and the chance to collaborate with others from a variety of sectors. We encourage applications from individuals across all career stages and disciplines. 
 
 **Registration:** Accepted applicants will be sent a confirmation from to confirm their attendance.
 
@@ -146,16 +130,13 @@ For those who will need to park a vehicle on campus to attend the Summit, please
 Access wireless service on campus by selecting UCB Guest Wireless from your available Wi-Fi network options and accepting the terms and conditions upon opening your web browser. You will be prompted to re-accept these terms and conditions periodically. If you encounter difficulty accessing the Internet, call 303-735-HELP (4357) or email help@colorado.edu for assistance during their business hours. Check firewalls or security settings on your computer that could possibly complicate accessing the campus Wi-Fi system before you arrive.
 
 ## Hotels
-We have negotiated rates at two nearby hotels. Please **book by August 22nd** to receive this rate:
-### [Hilton Garden Inn](https://www.hilton.com/en/hotels/wbubogi-hilton-garden-inn-boulder/)
-* Address: 2701 Canyon Boulevard, Boulder, Colorado, 80302
-* $173/night
-* [Booking Link](https://www.hilton.com/en/attend-my-event/esiil-innovation-summit-attendees/)
+We have negotiated rates at two nearby hotels. Please **book by ** to receive this rate:
+
 
 ### [Homewood Suites](https://www.hilton.com/en/hotels/boucohw-homewood-suites-boulder/)
 * Address:4950 Baseline Rd., Boulder, Colorado, 80303
 * $173/night
-* [Booking Link](https://www.hilton.com/en/book/reservation/deeplink/?ctyhocn=BOUCOHW&groupCode=CHW90J&arrivaldate=2025-09-22&departuredate=2025-09-25&cid=OM,WW,HILTONLINK,EN,DirectLink&fromId=HILTONLINKDIRECT)
+* [Booking Link](
 
 ## Event Photography
 We plan to take some photos of activities throughout the course of the week for use in internal and external publications. If you do not wish to have your image recorded for distribution, please inform the photographer and/or email Casey.Jenson@colorado.edu. By participating in ESIIL events, you are agreeing to the use of your photos unless you notify us in writing of your desire to opt out of being photographed. 
@@ -165,7 +146,7 @@ Boulder is 5,430 feet in elevation and has a sunny, semi-arid climate. Hydrating
 
 Weather conditions can change rapidly throughout each day and from day to day. Layers are always a good choice.
 
-The average temperature in Boulder in September for a typical day ranges from a high of 75.4°F (24.1°C) to a low of 48.3°F (9°C). Some would describe the temperature to be moderately chilly. The general area may also feel breezy. The sun is strong in Boulder, so please bring sunscreen, sunglasses, and a hat. There are many trails near Boulder, so hiking or running shoes and a set of workout clothes can help get you outside during your stay.
+The average temperature in Boulder in May for a typical day ranges from a high of 65-70 to a low of 35-45 . Some would describe the temperature to be moderately chilly. The general area may also feel breezy. The sun is strong in Boulder, so please bring sunscreen, sunglasses, and a hat. There are many trails near Boulder, so hiking or running shoes and a set of workout clothes can help get you outside during your stay.
 
 ## Transportation
 
@@ -175,7 +156,6 @@ If you are flying in for the event you will want to fly into the Denver Internat
 ### Ground Transportation
 **Ride Share**
 A Lyft or Uber or airport taxi are the most expensive option but also the most direct way to get from the airport to Boulder (often $70 or higher one way).
-
 
 **Public transportation to/from airport**
 Transit from the Denver airport to Boulder is quite easy via the **AB1 Boulder/Denver** airport bus. This bus runs at least once an hour during the day, with more frequent trips at popular times. To locate the bus, follow signs in the Denver airport baggage claim area to ‘Train to city,’ which will lead you down an escalator. At the base of the escalator, instead of continuing straight towards the visible train station, turn left and you should see a bus terminal with an RTD ticket machine. Tickets for the AB1 can be purchased for $10. Find the gate for the AB1 / Downtown Boulder line.
@@ -215,22 +195,7 @@ If you need to travel to Denver for any reason, the [Flatiron Flyer](https://www
 **Biking & Walking**
 Boulder has an extensive system of city walking/biking paths; [maps can be found here](https://bouldercolorado.gov/services/multi-use-paths). [Boulder B-Cycle](https://boulder.bcycle.com/nav/start-riding) is a community non-profit bike sharing system with daily and month passes available.
 
-## Group Repos
-
-<div class="group-repos">
-  <a class="group-repo-button" href="https://cu-esiil.github.io/defining-tipping-points-and-transformation-innovation-summit-2025__1/" title="1 - Mni Awanka (watching over water)">1 - Mni Awanka (watching over water)</a>
-  <a class="group-repo-button" href="https://cu-esiil.github.io/stressors-order-duration-frequency-intensity-innovation-summit-2025__2/" title="2 - Stressors Order Duration Frequency Intensity">2 - Stressors Order Duration Frequency Intensity</a>
-  <a class="group-repo-button" href="https://cu-esiil.github.io/abrupt-vs-gradual-shifts-rate-factors-innovation-summit-2025__3/" title="3 - Abrupt Vs Gradual Shifts Rate Factors">3 - Abrupt Vs Gradual Shifts Rate Factors</a>
-  <a class="group-repo-button" href="https://cu-esiil.github.io/stressors-food-web-connectivity-stability-innovation-summit-2025__4/" title="4 - Stressors, Food Web Connectivity, and Stability">4 - Stressors, Food Web Connectivity, and Stability</a>
-  <a class="group-repo-button" href="https://cu-esiil.github.io/transformations-ecosystem-services-innovation-summit-2025__11/" title="11 - Transformations Ecosystem Services">11 - Transformations Ecosystem Services</a>
-  <a class="group-repo-button" href="https://cu-esiil.github.io/social-impacts-of-transformations-innovation-summit-2025__14/" title="14 - Social Impacts Measurement Evaluation">14 - Social Impacts Measurement Evaluation</a>
-  <a class="group-repo-button" href="https://cu-esiil.github.io/resilience-rare-hydrologic-events-management-innovation-summit-2025__15/" title="15 - Resilience Rare Hydrologic Events Management">15 - Resilience Rare Hydrologic Events Management</a>
-  <a class="group-repo-button" href="https://cu-esiil.github.io/indigenous-approaches-co-management-hegemonic-responses-innovation-summit-2025__16/" title="16 - Indigenous Approaches Co Management Hegemonic Responses">16 - Indigenous Approaches Co Management Hegemonic Responses</a>
-  <a class="group-repo-button" href="https://cu-esiil.github.io/management-practices-prevent-thresholds-innovation-summit-2025__17/" title="17 - Management Practices Prevent Compound Disturbance">17 - Management Practices Prevent Compound Disturbance</a>
-  <a class="group-repo-button" href="https://cu-esiil.github.io/cross-cutting-data-interoperability-harmonization-innovation-summit-2025__18/" title="18 - Cross Cutting Data Interoperability Harmonization">18 - Cross Cutting Data Interoperability Harmonization</a>
-  <a class="group-repo-button" href="https://cu-esiil.github.io/wildcard-topic-innovation-summit-2025__19/" title="19 - HydroFutures / WaterTipPoint — Building Resilience for the Future">19 - HydroFutures / WaterTipPoint — Building Resilience for the Future</a>
-  <a class="group-repo-button" href="https://cu-esiil.github.io/wildcard-topic-innovation-summit-2025__20/" title="20 - HeSapa EIA/EIS Study">20 - He Sapa Makiyuta EA/EIS Study</a>
-</div>
+## 
 
 *This event is hosted by ESIIL and funded by the National Science Foundation (via award # DBI-2153040), and subject to the NSF’s terms and conditions.
 
