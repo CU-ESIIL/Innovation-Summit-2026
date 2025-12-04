@@ -17,13 +17,12 @@ Summit attendees will learn about AI methodologies that are available to tackle 
 Key potential focus areas include: continental-scale ‘digital twins’ for the U.S., Earth embeddings, emergent combined AI and statistical approaches that enable interpretation of mechanisms, and LLMs for robust discovery in ecology, evolution, and environmental sciences. 
 
 ## Goals
+Attendees should expect to come out of the summit with the following:
 
-The goals of the 2026 ESIIL Innovation Summit are to: 
-
-- Inspire **novel AI** approaches to environmental data 
-- Increase **AI and data skills capabilities** in next-generation workforce
-- Connect communities and foster emergent teams across academic, federal, industry, and non-profit partners to facilitate **data-driven co-development and translation**  
-- **Champion best practices** in environmental data science and the responsible use of AI.  
+- Learn **novel AI** approaches to working with environmental datasets
+- Increase **AI and data skills capabilities**
+- Create **transdisciplinary collaborations** across academic, federal, industry, and non-profit partners to facilitate data-driven co-development
+- Learn, workshop, and create **best practices** in environmental data science and the responsible use of AI
 
 ## Agenda
 
