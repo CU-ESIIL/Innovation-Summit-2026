@@ -41,7 +41,7 @@ Attendees should expect to come out of the summit with the following:
         - :material-handshake: 9 AM–5 PM — *Summit*
     - **Thu, May 14**
         - :material-coffee: 8:30–9 AM — *Light breakfast*
-        - :material-handshake: 8:45 AM–3 PM — *Summit*
+        - :material-handshake: 8:45 AM–5 PM — *Summit*
 </div>
 
 
