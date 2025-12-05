@@ -1,0 +1,201 @@
+![header](assets/esiil_content/2026header_new.png)
+
+!!! Success "Almost here!"
+
+    May 12-14, 2026
+
+    University of Colorado Boulder 
+    
+
+# Welcome to the 2026 ESIIL Innovation Summit
+The 2026 [ESIIL](esiil.org) Innovation Summit will focus on **AI for sustainability**, bringing together teams across academic, federal, industry, and non-profit partners to leverage AI and other analytical approaches to generate new discoveries and insights that will help us better steward our nation’s natural heritage. 
+
+On a daily basis we are generating more and more data about our living planet, from species to ecosystems, across scales of observation from gene sequencing to drone-based imagery to satellite detections. We need ‘all hands on deck’ to benefit from ideas that come from across sectors, geographies, worldviews/perspectives, and disciplines. Including a spectrum of ideas and voices will ensure scientific innovations matter at local and national scales. 
+
+Summit attendees will learn about AI methodologies that are available to tackle environmental challenges and how to apply them in their own research and communities. Teams will converge around AI-ready data sets and AI tools to bridge the ideas that come from across sectors, geographies, worldviews, and disciplines. 
+
+Key potential focus areas include: continental-scale ‘digital twins’ for the U.S., Earth embeddings, emergent combined AI and statistical approaches that enable interpretation of mechanisms, and LLMs for robust discovery in ecology, evolution, and environmental sciences. 
+
+## Goals
+Attendees should expect to come out of the summit with the following:
+
+- An undestanding of **novel AI** approaches to working with environmental datasets
+- Increased **AI and data skills capabilities**
+- **Transdisciplinary collaborations** across academic, federal, industry, and non-profit partners to facilitate data-driven co-development
+- Learn, workshop, and create **best practices** in environmental data science and the responsible use of AI
+
+## Agenda
+
+<div class="grid cards" markdown>
+
+-   :material-party-popper:{ .agenda-ico } **2026 ESIIL Innovation Summit**
+    ---
+    [:material-map-marker: Venue & travel](#venue-information){ .md-button }
+    - **Mon, May 11**
+        - :material-account-tie: 1–4 PM MT — *Leadership workshop (invite only)*
+    - **Tue, May 12**
+        - :material-coffee: 8:30–9 AM — *Registration & light breakfast*
+        - :material-handshake: 9 AM–5 PM — *Summit*
+    - **Wed, May 13**
+        - :material-coffee: 8:30–9 AM — *Light breakfast*
+        - :material-handshake: 9 AM–5 PM — *Summit*
+    - **Thu, May 14**
+        - :material-coffee: 8:30–9 AM — *Light breakfast*
+        - :material-handshake: 8:45 AM–5 PM — *Summit*
+</div>
+
+
+## Summit Features
+
+<div class="grid cards" markdown>
+
+-   :material-database:{ .feature-ico } **Big Data & Cyberinfrastructure**  
+    Access cutting-edge AI and data analysis tools to explore sustainability solutions.
+
+-   :material-account-group:{ .feature-ico } **Collaborative “Unconference”**  
+    Flexible, participant-driven sessions where attendees shape their own experience, collaborate on inspiring projects, and foster innovation.
+
+-   :material-laptop:{ .feature-ico } **Hands-On Learning & Strategy**  
+    Workshops and discussions for building data-informed strategies to address environmental transformations and adaptive management.
+
+-   :material-scale-balance:{ .feature-ico } **Team Science & Ethical Open Science**  
+    Deepen your understanding of team science, ethical practice, and leadership in environmental data science.
+</div>
+
+
+## What to Expect at the Summit
+The Summit will take the form of an **‘unconference’**, a flexible and interactive event designed to foster **collaboration and innovation**. Attendees are encouraged to participate in discussions, workgroups, and brainstorming sessions centered around the themes that interest them most. The format encourages **co-creation** of solutions, with ample opportunities for spontaneous interactions and cross-disciplinary teamwork.
+
+What past attendees had to say:
+
+- “The ESIIL Innovation Summit brings together people… to gain hands-on experience developing innovative science questions, big data tools, and working in a collaborative team.”
+- "I had a fantastic time at the summit making new connections and learning new environmental data science techniques and research topics that has only increased my passion for EDS and interest in participating in an ESIIL working group. The inclusive environment that ESIIL and the Divergent Science team created played a big part in that. Thank you and I’m so grateful for being a part of this summit!”
+- “Get ready to work hard and to grow. You’ll meet a lot of great people from diverse backgrounds.”
+- “A highlight of the Summit was the general atmosphere and community. There’s palpable excitement. The unconference format is different from a typical conference, so people don’t always know what to expect—but that’s part of what makes it so engaging.”
+- “I see solutions that I did not see before the Summit. I see possibilities for collabs I probably would not have encountered without the Summit."
+
+![mentimeter](assets/esiil_content/Summit2026wordcloudnew.png)
+
+## Training Opportunities
+To prepare for the theme and goals of the Summit, all attendees will be invited to virtual training and networking opportunities prior to the event. **Virtual opportunities may include:**
+
+* Technical trainings in cloud computing (CyVerse and Github)
+* Networking opportunities around the Summit theme
+* Earth Embeddings: Introduction to Earth embeddings and encoding earth data into vector representations
+* Digital Twins: AI and CI tools for continental-scale near-real-time data stream, predictions, and forecasting systems
+* LLMs for robust application in environmental sciences
+* Team science, community building and collaboration
+
+## Who Should Attend? 
+The **2026 ESIIL Innovation Summit** aims to bring together participants who are eager to shape the future of AI-driven environmental discovery. The Summit will focus on identifying opportunities for data synthesis, exploring the cutting-edge capabilities of AI, and fostering innovative sustainability solutions through collaborative teams. Whether your expertise lies in environmental science, computer science, management, or community engagement, this event will offer valuable insights and the chance to collaborate with others from a variety of sectors. We encourage applications from individuals across all career stages and disciplines. 
+
+**Registration:** Accepted applicants will be sent a confirmation from to confirm their attendance.
+
+**Finances:** There is no registration fee for accepted participants to attend the Innovation Summit or associated trainings and workshops. A limited number of travel awards of up to $1,200 are available to help defray airfare/mileage and accommodation costs. Simple snacks, beverages, and lunch will be provided during the event. 
+
+## Venue Information
+The Innovation Summit will be held at the University of Colorado Boulder East Campus [SEEC Building](https://seec.colorado.edu/home), **C120 Auditorium**. 
+The address is 4001 Discovery Dr, Boulder, CO 80303. Click [here](https://seec.colorado.edu/getting-here/directions) for directions to the SEEC Building.
+
+Click [here](https://seec.colorado.edu/system/pdfs/first_floor.pdf) for a map of the SEEC Building's 1st floor. The C120 auditorium is located at the main entrance, directly south of the [Triceratops](https://www.colorado.edu/today/2024/01/16/full-triceratops-skeleton-now-calls-boulder-home).
+
+
+![seec building](assets/esiil_content/seec_landscape.jpeg)
+
+*SEEC and SEEL Buildings*
+
+### Building Resources
+
+* [SEEC Cafe](https://seec.colorado.edu/resources/seec-cafe)
+* ADA single stall restrooms off the North and South Atriums 
+* Lactation room [S120](https://seec.colorado.edu/resources/lactation-room) or wherever comfortable
+* Quiet areas
+* Elevators, accessible entrances, and more inclusivity resources on the campus map:  https://www.colorado.edu/map/
+* ESIIL Refrigerator 
+* Meeting resources
+* Meeting supplies
+* Health supplies
+
+***Let us know if you need something to be able to participate comfortably.***
+
+### Venue Parking
+For those who will need to park a vehicle on campus to attend the Summit, we will provide a form in May to receive a parking permit and voucher code. Note that due to University policy, University of Colorado employees and students are not allowed to use this voucher code.  Follow the permit instructions to claim your $0 permit. Guests only need to claim one permit for the week as it will last from 05/11-05/14. 
+
+### Health & Safety Resources
+* Campus and Off-Campus Emergencies 911
+* CU Police Department (On-Campus, Non-Emergency) 303-492-6666
+* City of Boulder Police Department (Non-Emergency) 303-441-3333
+* Boulder Community Hospital 303-415-7000: 4747 Arapahoe Ave, Boulder, CO 80303
+
+### Internet Access
+Access wireless service on campus by selecting UCB Guest Wireless from your available Wi-Fi network options and accepting the terms and conditions upon opening your web browser. You will be prompted to re-accept these terms and conditions periodically. If you encounter difficulty accessing the Internet, call 303-735-HELP (4357) or email help@colorado.edu for assistance during their business hours. Check firewalls or security settings on your computer that could possibly complicate accessing the campus Wi-Fi system before you arrive.
+
+## Hotels
+We have negotiated rates at a nearby hotel. Please **book by ** to receive this rate:
+
+### [Homewood Suites](https://www.hilton.com/en/hotels/boucohw-homewood-suites-boulder/)
+* Address:4950 Baseline Rd., Boulder, Colorado, 80303
+* $173/night
+* Booking link coming soon
+
+## Event Photography
+We plan to take some photos of activities throughout the course of the week for use in internal and external publications. If you do not wish to have your image recorded for distribution, please inform the photographer and/or email Casey.Jenson@colorado.edu. By participating in ESIIL events, you are agreeing to the use of your photos unless you notify us in writing of your desire to opt out of being photographed. 
+
+## Weather and Packing
+Boulder is 5,430 feet in elevation and has a sunny, semi-arid climate. Hydrating during your stay is very important, as altitude sickness (headache, nausea, shortness of breath, dizziness, and tiredness) can occur.
+
+Weather conditions can change rapidly throughout each day and from day to day. Layers are always a good choice.
+
+The average temperature in Boulder in May for a typical day ranges from a high of 65-70F to a low of 35-45F. Some would describe the temperature to be moderately chilly. The general area may also feel breezy. The sun is strong in Boulder, so please bring sunscreen, sunglasses, and a hat. There are many trails near Boulder, so hiking or running shoes and a set of workout clothes can help get you outside during your stay.
+
+## Transportation
+
+### Air Transportation
+If you are flying in for the event you will want to fly into the Denver International Airport (DIA). Note that the airport is quite large and you will need to take an airport train to the main terminal.
+
+### Ground Transportation
+**Ride Share**
+A Lyft or Uber or airport taxi are the most expensive option but also the most direct way to get from the airport to Boulder (often $70 or higher one way).
+
+**Public transportation to/from airport**
+Transit from the Denver airport to Boulder is quite easy via the **AB1 Boulder/Denver** airport bus. This bus runs at least once an hour during the day, with more frequent trips at popular times. To locate the bus, follow signs in the Denver airport baggage claim area to ‘Train to city,’ which will lead you down an escalator. At the base of the escalator, instead of continuing straight towards the visible train station, turn left and you should see a bus terminal with an RTD ticket machine. Tickets for the AB1 can be purchased for $10. Find the gate for the AB1 / Downtown Boulder line.
+
+**Airport Shuttle Services**
+If you would prefer to book a shuttle to/from DIA (Denver International Airport) & Boulder:
+
+* SuperShuttle: www.supershuttle.com 800-258-3826
+
+**Car Rentals**
+There are a number of rental car agencies located at the Denver International Airport:
+
+* Advantage: www.advantage.com
+* Alamo: www.alamo.com
+* Avis: www.avis.com
+* Budget: www.budget.com
+* Dollar: www.dollar.com
+* Enterprise: www.enterprise.com
+* Hertz: www.hertz.com
+* National: www.nationalcar.com
+* Payless: www.paylesscarrental.com
+
+**Additional car rental options include:**
+
+* eGo CarShare
+* Zipcar
+
+### Transportation around the Boulder area
+Boulder has a number of public transportation options for traversing Boulder and the surrounding area
+
+
+**Bus lines**
+[Information about Boulder’s local bus network can be found here](http://www.bouldercolorado.gov/goboulder/bus). Note that the Skip, Bound, and Hop lines pass campus regularly.
+
+If you need to travel to Denver for any reason, the [Flatiron Flyer](https://www.rtd-denver.com/services/flatiron-flyer) bus connects Denver to Boulder. Currently the FF1 is the best option, and connects Denver’s Union Station to the Downtown Boulder Station (with numerous stops in-between).
+
+**Biking & Walking**
+Boulder has an extensive system of city walking/biking paths; [maps can be found here](https://bouldercolorado.gov/services/multi-use-paths). [Boulder B-Cycle](https://boulder.bcycle.com/nav/start-riding) is a community non-profit bike sharing system with daily and month passes available.
+
+## 
+
+*This event is hosted by ESIIL and funded by the National Science Foundation (via award # DBI-2153040), and subject to the NSF’s terms and conditions.
+
