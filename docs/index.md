@@ -19,9 +19,9 @@ Key potential focus areas include: continental-scale ‘digital twins’ for the
 ## Goals
 Attendees should expect to come out of the summit with the following:
 
-- Learn **novel AI** approaches to working with environmental datasets
-- Increase **AI and data skills capabilities**
-- Create **transdisciplinary collaborations** across academic, federal, industry, and non-profit partners to facilitate data-driven co-development
+- An undestanding of **novel AI** approaches to working with environmental datasets
+- Increased **AI and data skills capabilities**
+- **Transdisciplinary collaborations** across academic, federal, industry, and non-profit partners to facilitate data-driven co-development
 - Learn, workshop, and create **best practices** in environmental data science and the responsible use of AI
 
 ## Agenda
