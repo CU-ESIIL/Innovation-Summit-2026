@@ -23,5 +23,5 @@ Detailed Agenda coming soon.
 
 * 8:30 am-9 am MT: Light breakfast provided
 
-* 8:45 am-3 pm MT: Summit
+* 8:45 am-5 pm MT: Summit
 
