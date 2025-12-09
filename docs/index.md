@@ -56,8 +56,8 @@ Attendees should expect to come out of the summit with the following:
     Flexible, participant-driven sessions where attendees shape their own experience, collaborate on inspiring projects, and foster innovation.
 
 -   :material-laptop:{ .feature-ico } **Hands-On Learning & Strategy**  
-    Workshops and discussions for building data-informed strategies to address environmental transformations and adaptive management.
-
+    Workshops and discussions to leverage AI tools for developing sustainability solutions.
+    
 -   :material-scale-balance:{ .feature-ico } **Team Science & Ethical Open Science**  
     Deepen your understanding of team science, ethical practice, and leadership in environmental data science.
 </div>
