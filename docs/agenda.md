@@ -1,27 +1,21 @@
 
 Detailed Agenda coming soon.
 
-**2026 ESIIL Innovation Summit**
+<div class="grid cards" markdown>
 
-**Monday, May 11**: 1-4 pm MT - Leadership workshop (by invite)
-
-**Tuesday, May 12**:
-
-* 8:30 am-9 am MT: Registration, Light breakfast provided
-
-* 9 am-5 pm MT: Summit
-
-* Reception TBD
-
-**Wednesday, May 13**:
-
-* 8:30 am-9 am MT: Light breakfast provided
-
-* 9:00 am-5 pm MT: Summit
-
-**Thursday, May 14**:
-
-* 8:30 am-9 am MT: Light breakfast provided
-
-* 8:45 am-5 pm MT: Summit
+-   :material-party-popper:{ .agenda-ico } **2026 ESIIL Innovation Summit**
+    ---
+    [:material-map-marker: Venue & travel](#venue-information){ .md-button }
+    - **Mon, May 11**
+        - :material-account-tie: 1–4 PM MT — *Leadership workshop (invite only)*
+    - **Tue, May 12**
+        - :material-coffee: 8:30–9 AM — *Registration & light breakfast*
+        - :material-handshake: 9 AM–5 PM — *Summit*
+    - **Wed, May 13**
+        - :material-coffee: 8:30–9 AM — *Light breakfast*
+        - :material-handshake: 9 AM–5 PM — *Summit*
+    - **Thu, May 14**
+        - :material-coffee: 8:30–9 AM — *Light breakfast*
+        - :material-handshake: 8:45 AM–5 PM — *Summit*
+</div>
 
