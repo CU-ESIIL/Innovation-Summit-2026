@@ -60,13 +60,14 @@ What past attendees had to say:
 ![mentimeter](assets/esiil_content/Summit2026wordcloudnew.png)
 
 ## Training Opportunities
-To prepare for the theme and goals of the Summit, all attendees will be invited to virtual training and networking opportunities prior to the event. **Virtual opportunities may include:**
+To prepare for the theme and goals of the Summit, all attendees will be invited to virtual training and networking opportunities prior to the event. Details about our key themes and pre-event training events can be found on our ["Pre-Summit Trainings" page](https://cu-esiil.github.io/Innovation-Summit-2026/virtual-meetings/) 🔝. **Virtual opportunities may include:**
 
 * Technical trainings in cloud computing (CyVerse and Github)
 * Networking opportunities around the Summit theme
 * Earth Embeddings: Introduction to Earth embeddings and encoding earth data into vector representations
 * Digital Twins: AI and CI tools for continental-scale near-real-time data stream, predictions, and forecasting systems
 * LLMs for robust application in environmental sciences
+* AI for causal inferences
 * Team science, community building and collaboration
 
 ## Who Should Attend? 
