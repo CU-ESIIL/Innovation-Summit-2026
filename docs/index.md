@@ -1,6 +1,6 @@
 ![header](assets/esiil_content/2026header_new.png)
 
-!!! Success "[Apply today!"](https://docs.google.com/forms/d/e/1FAIpQLSeS0VqeukcKEbONQvf5lsXpOiOc_4BUbw_MnJZVJIk_Su9o7A/viewform?usp=dialog)"
+!!! Success "[Click here to apply!](https://docs.google.com/forms/d/e/1FAIpQLSeS0VqeukcKEbONQvf5lsXpOiOc_4BUbw_MnJZVJIk_Su9o7A/viewform?usp=dialog)"
 
     May 12-14, 2026
 
