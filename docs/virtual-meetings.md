@@ -4,13 +4,13 @@ Summit attendees have the opportunity to learn about AI methodologies that are a
 ## Training Opportunities: 
 **Choose 1 or attend all 4:**
 
-**Earth Embeddings: Introduction to Earth embeddings and encoding earth data into vector representations** - Date/Time TBD
+- **Earth Embeddings: Introduction to Earth embeddings and encoding earth data into vector representations** - Date/Time TBD
 
-**Digital Twins: AI and CI tools for continental-scale near-real-time data stream, predictions, and forecasting systems** - Date/Time TBD
+- **Digital Twins: AI and CI tools for continental-scale near-real-time data stream, predictions, and forecasting systems** - Date/Time TBD
 
-**LLMs for robust application in environmental sciences** - Date/Time TBD
+- **LLMs for robust application in environmental sciences** - Date/Time TBD
 
-**AI for causal inference** - Date/Time TBD
+- **AI for causal inference** - Date/Time TBD
 
 ## Dive into our Key Focus Areas
 
