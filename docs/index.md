@@ -10,11 +10,13 @@
 # Welcome to the 2026 ESIIL Innovation Summit
 The 2026 [ESIIL](esiil.org) Innovation Summit will focus on **AI for sustainability**, bringing together teams across academic, federal, industry, and non-profit partners to leverage AI and other analytical approaches to generate new discoveries and insights that will help us better steward our nation’s natural heritage. 
 
-On a daily basis we are generating more and more data about our living planet, from species to ecosystems, across scales of observation from gene sequencing to drone-based imagery to satellite detections. We need ‘all hands on deck’ to benefit from ideas that come from across sectors, geographies, worldviews/perspectives, and disciplines. Including a spectrum of ideas and voices will ensure scientific innovations matter at local and national scales. 
+We will focus on **sustainability**, defined as **meeting the needs of the present without compromising the ability of future generations to benefit from and maintain healthy ecosystems over time**. Teams will explore the question: _How can we leverage the environmental data and AI revolution to make decisions over the next 10 years that set our nation’s species, ecosystems, and environmental livelihoods on a course towards a thriving future?_
+
+On a daily basis we are generating increasingly more data about our living planet, from species to ecosystems, across scales of observation from gene sequencing to drone-based imagery to satellite detections. We need ‘all hands on deck’ to benefit from ideas that come from across sectors, geographies, worldviews, and disciplines to **generate solutions** that span from management scenarios to environmental technologies. Including a spectrum of ideas and voices will **ensure scientific innovations matter and translate across local to national scales**. 
 
 Summit attendees will learn about AI methodologies that are available to tackle environmental challenges and how to apply them in their own research and communities. Teams will converge around AI-ready data sets and AI tools to bridge the ideas that come from across sectors, geographies, worldviews, and disciplines. 
 
-Key potential focus areas include: continental-scale ‘digital twins’ for the U.S., Earth embeddings, emergent combined AI and statistical approaches that enable interpretation of mechanisms, and LLMs for robust discovery in ecology, evolution, and environmental sciences. 
+Key focus areas include building Earth embeddings, co-producing digital twins for environmental futures, and identifying best practices for using large language models in environmental data science. Other potential areas include: emergent combined AI and statistical approaches that enable interpretation of mechanisms, responsible use of AI in environmental data science, and how AI is a challenge and opportunity to advance environmental data sovereignty. 
 
 ## Goals
 Attendees should expect to come out of the summit with the following:
@@ -23,6 +25,17 @@ Attendees should expect to come out of the summit with the following:
 - Increased **AI and data skills capabilities**
 - **Transdisciplinary collaborations** across academic, federal, industry, and non-profit partners to facilitate data-driven co-development
 - Learn, workshop, and create **best practices** in environmental data science and the responsible use of AI
+
+## Dive into our Key Focus Areas
+
+**Earth embeddings**, a type of compression of the original data source, keeps viable information in environmental data while preparing it for use in AI models to make predictions. Break out working groups can use cutting-edge Earth embeddings already developed by the ESIIL team, e.g., the MOSAIKS embedding method tailored to multispectral satellite imagery or CV4E models that leverage computer vision for wildlife images. We seek to inspire teams to develop a critically-needed library of approaches for embeddings that leverage other types of environmental biology data (acoustic data, non-optical satellite data, landscape data, camera-trap data, marine data, and others) that will enable us to use AI to ask questions about how species and ecosystems will respond to future global change.  
+
+**Continental-scale digital twins for the U.S.**: There is a rapid movement to create planetary digital twins, but many lack the domain knowledge and critical data inputs to make them robust and useful. Breakout groups will focus on building a framework and identifying key data, computation, and domain needs for sustainability-focused digital twins. We critically need near-real-time predictions (that could be enabled by edge computing) and longer-term forecasting systems that will derive from digital twins. But we need our environmental data science community to help ground these new AI-driven technologies in scale, appropriate data, domain knowledge, and management objectives. We have the opportunity to create digital twins for sustainable management of our nation’s natural resources and heritage, but need to ground this AI-driven technology. 
+
+**Large language models (LLMS) in environmental data science**: LLMs offer many opportunities for discovery in ecology, evolution, and environmental sciences. AI-generated text can prompt idea generation among science teams and help to leverage entire corpuses of work in specific disciplines. LLMs can also be used to develop datasets that would not have existed otherwise. Moreover, LLMs can be used to assist resource managers and advance conservation applications. Yet, there are critical needs to develop robust and replicable workflows that leverage LLMs, while still adhering to research integrity and ethical use. Break out groups will explore these topics and help to advance LLM-assisted environmental data science and advance best practices across our field. 
+
+**AI for understanding ecological mechanisms & levers for decision-making**:
+
 
 ## Agenda
 
