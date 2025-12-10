@@ -28,6 +28,8 @@ Attendees should expect to come out of the summit with the following:
 - **Transdisciplinary collaborations** across academic, federal, industry, and non-profit partners to facilitate data-driven co-development
 - Learn, workshop, and create **best practices** in environmental data science and the responsible use of AI
 
+![dino](assets/esiil_content/dino.png)
+
 ## Summit Features
 
 <div class="grid cards" markdown>
