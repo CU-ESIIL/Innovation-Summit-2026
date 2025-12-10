@@ -16,7 +16,7 @@ On a daily basis we are generating increasingly more data about our living plane
 
 Summit attendees will learn about AI methodologies that are available to tackle environmental challenges and how to apply them in their own research and communities. Teams will converge around AI-ready data sets and AI tools to bridge the ideas that come from across sectors, geographies, worldviews, and disciplines. 
 
-Key focus areas include building Earth embeddings, co-producing digital twins for environmental futures, and identifying best practices for using large language models in environmental data science. Other potential areas include: emergent combined AI and statistical approaches that enable interpretation of mechanisms, responsible use of AI in environmental data science, and how AI is a challenge and opportunity to advance environmental data sovereignty. 
+Key focus areas include building Earth embeddings, co-producing digital twins for environmental futures, Causal inference and AI, and identifying best practices for using large language models in environmental data science. Other potential areas include: emergent combined AI and statistical approaches that enable interpretation of mechanisms, responsible use of AI in environmental data science, and how AI is a challenge and opportunity to advance environmental data sovereignty. 
 
 ## Goals
 Attendees should expect to come out of the summit with the following:
