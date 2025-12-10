@@ -1,11 +1,11 @@
 ![header](assets/esiil_content/2026header_new.png)
 
-!!! Success "Almost here!"
+!!! Success "[Apply today!"](https://docs.google.com/forms/d/e/1FAIpQLSeS0VqeukcKEbONQvf5lsXpOiOc_4BUbw_MnJZVJIk_Su9o7A/viewform?usp=dialog)"
 
     May 12-14, 2026
 
     University of Colorado Boulder 
-    
+
 
 # Welcome to the 2026 ESIIL Innovation Summit
 The 2026 [ESIIL](esiil.org) Innovation Summit will focus on **AI for sustainability**, bringing together teams across academic, federal, industry, and non-profit partners to leverage AI and other analytical approaches to generate new discoveries and insights that will help us better steward our nation’s natural heritage. 
