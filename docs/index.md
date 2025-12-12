@@ -132,12 +132,14 @@ For those who will need to park a vehicle on campus to attend the Summit, we wil
 Access wireless service on campus by selecting UCB Guest Wireless from your available Wi-Fi network options and accepting the terms and conditions upon opening your web browser. You will be prompted to re-accept these terms and conditions periodically. If you encounter difficulty accessing the Internet, call 303-735-HELP (4357) or email help@colorado.edu for assistance during their business hours. Check firewalls or security settings on your computer that could possibly complicate accessing the campus Wi-Fi system before you arrive.
 
 ## Hotels
-We have negotiated rates at a nearby hotel. Please **book by ** to receive this rate:
+We have a negotiated rate at a nearby hotel. 
 
 ### [Homewood Suites](https://www.hilton.com/en/hotels/boucohw-homewood-suites-boulder/)
 * Address:4950 Baseline Rd., Boulder, Colorado, 80303
 * $173/night
 * Booking link coming soon
+
+In addition, CU Boulder has set negotiated rates with hotels all around Boulder and the surrounding area, which should provide some different options depending on your budget. When booking with one of these hotels [(instructions on the site)](https://www.cu.edu/preferred-hotel-program-local/preferred-hotel-program-local-ucb), note that you need to mention “The University of Colorado special rate” and that you will be staying for a university-sponsored event. 
 
 ## Event Photography
 We plan to take some photos of activities throughout the course of the week for use in internal and external publications. If you do not wish to have your image recorded for distribution, please inform the photographer and/or email Casey.Jenson@colorado.edu. By participating in ESIIL events, you are agreeing to the use of your photos unless you notify us in writing of your desire to opt out of being photographed. 
