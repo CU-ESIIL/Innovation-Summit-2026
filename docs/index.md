@@ -16,7 +16,15 @@ On a daily basis we are generating increasingly more data about our living plane
 
 Summit attendees will learn about AI and data methodologies that are available to tackle environmental challenges and how to apply them in their own research and communities. Teams will converge around AI-ready data sets and AI tools.
 
-**[Key focus areas](https://cu-esiil.github.io/Innovation-Summit-2026/virtual-meetings/)** co-producing digital twins for environmental futures, building Earth embeddings, AI and causal inference, and identifying best practices for using large language models in environmental data science. **Other potential areas include:** emergent combined AI and statistical approaches that enable interpretation of environmental mechanisms, responsible use of AI in environmental data science, and how AI is a challenge and opportunity to advance environmental data sovereignty. _We welcome domain experts who are simply AI-curious and want to learn more about how AI can apply to biological data and sustainability questions. We also welcome computer science experts who want to apply cutting-edge AI technologies to sustainability questions._
+**[Key focus areas](https://cu-esiil.github.io/Innovation-Summit-2026/virtual-meetings/)** include:
+- Co-producing digital twins for environmental futures
+- Building Earth embeddings
+- AI and causal inference
+- Identifying best practices for using large language models in environmental data science.
+
+**Other potential areas include:** emergent combined AI and statistical approaches that enable interpretation of environmental mechanisms, responsible use of AI in environmental data science, and how AI is a challenge and opportunity to advance environmental data sovereignty. _We welcome domain experts who are simply AI-curious and want to learn more about how AI can apply to biological data and sustainability questions. We also welcome computer science experts who want to apply cutting-edge AI technologies to sustainability questions._
+
+Throughout the Summit, participants will co-create insights, frameworks, and solutions that support a more sustainable and resilient future.
 
 **[APPLY HERE](https://docs.google.com/forms/d/e/1FAIpQLSeS0VqeukcKEbONQvf5lsXpOiOc_4BUbw_MnJZVJIk_Su9o7A/viewform?usp=dialog)** by January 31, 2026
 
