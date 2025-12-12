@@ -13,6 +13,7 @@ copyright: 'Copyright &copy; 2024 University of Colorado Boulder'
 # Page tree
 nav:
   - Home: index.md
+  - Key Focus Areas: Topics.md
   - Pre-Summit Trainings: 
        - Overview: virtual-meetings.md
        - Science Jam: science_jam.md
