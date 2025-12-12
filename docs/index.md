@@ -2,9 +2,9 @@
 
 !!! Success "[Click here to apply!](https://docs.google.com/forms/d/e/1FAIpQLSeS0VqeukcKEbONQvf5lsXpOiOc_4BUbw_MnJZVJIk_Su9o7A/viewform?usp=dialog)"
 
-    May 12-14, 2026
+    🗓️ May 12-14, 2026
 
-    University of Colorado Boulder 
+    📍 University of Colorado Boulder 
 
 
 # Welcome to the 2026 ESIIL Innovation Summit
@@ -13,9 +13,9 @@ The 2026 [ESIIL](esiil.org) Innovation Summit will focus on **AI for sustainabil
 
 We will focus on [**sustainability**](https://www.un.org/en/academic-impact/sustainability), defined by the United Nations as **meeting the needs of the present without compromising the ability of future generations to benefit from and maintain healthy ecosystems over time**. Further, sustainability balances economic development, social fairness, and environmental protection. 
 
-**A key Summit ❓ will be:** _How can we leverage the environmental data and AI revolution to make decisions over the next 10 years that set our nation’s species, ecosystems, and     environmental livelihoods on a course towards a thriving future?_
+**A key Summit ❓ will be:** _How can we leverage the environmental data and AI revolutions to make decisions over the next 10 years that set our nation’s species, ecosystems, and     environmental livelihoods on a course towards a thriving future?_
 
-On a daily basis we are generating increasingly more data about our living planet, from species to ecosystems, across scales of observation from gene sequencing to drone-based imagery to satellite detections. We need ‘all hands on deck’ to benefit from ideas that come from across sectors, geographies, worldviews, and disciplines to **generate solutions** that span from management scenarios to environmental technologies. Including a spectrum of ideas and voices will **ensure scientific innovations matter and translate across local to national scales**. 
+On a daily basis we are generating increasingly more data about our living planet, from species to ecosystems, across scales of observation from gene sequencing to drone-based imagery and satellite detections. We need ‘all hands on deck’ to benefit from ideas that come from across sectors, geographies, worldviews, and disciplines to **generate solutions** that span from management scenarios to environmental technologies. Including a spectrum of ideas and voices will **ensure scientific innovations matter and translate across local to national scales**. 
 
 Summit attendees will learn about AI and data methodologies that are available to tackle environmental challenges and how to apply them in their own research and communities. Teams will converge around AI-ready data sets and AI tools.
 
