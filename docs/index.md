@@ -10,25 +10,25 @@
 # Welcome to the 2026 ESIIL Innovation Summit
 The 2026 [ESIIL](esiil.org) Innovation Summit will focus on **AI for sustainability**, bringing together teams across academic, federal, industry, and non-profit partners to leverage AI and other analytical approaches to generate new discoveries and insights that will help us better steward our nation’s natural heritage. 
 
-We will focus on **sustainability**, defined as **meeting the needs of the present without compromising the ability of future generations to benefit from and maintain healthy ecosystems over time**. Teams will explore the question: _How can we leverage the environmental data and AI revolution to make decisions over the next 10 years that set our nation’s species, ecosystems, and environmental livelihoods on a course towards a thriving future?_
+We will focus on [**sustainability**](https://www.un.org/en/academic-impact/sustainability), defined by the United Nations as **meeting the needs of the present without compromising the ability of future generations to benefit from and maintain healthy ecosystems over time**. Further, sustainability balances economic development, social fairness, and environmental protection. A key Summit question will be: _How can we leverage the environmental data and AI revolution to make decisions over the next 10 years that set our nation’s species, ecosystems, and environmental livelihoods on a course towards a thriving future?_
 
 On a daily basis we are generating increasingly more data about our living planet, from species to ecosystems, across scales of observation from gene sequencing to drone-based imagery to satellite detections. We need ‘all hands on deck’ to benefit from ideas that come from across sectors, geographies, worldviews, and disciplines to **generate solutions** that span from management scenarios to environmental technologies. Including a spectrum of ideas and voices will **ensure scientific innovations matter and translate across local to national scales**. 
 
-Summit attendees will learn about AI methodologies that are available to tackle environmental challenges and how to apply them in their own research and communities. Teams will converge around AI-ready data sets and AI tools to bridge the ideas that come from across sectors, geographies, worldviews, and disciplines. 
+Summit attendees will learn about AI and data methodologies that are available to tackle environmental challenges and how to apply them in their own research and communities. Teams will converge around AI-ready data sets and AI tools.
 
-**[Key focus areas](https://cu-esiil.github.io/Innovation-Summit-2026/virtual-meetings/)** include building Earth embeddings, co-producing digital twins for environmental futures, causal inference and AI, and identifying best practices for using large language models in environmental data science. Other potential areas include: emergent combined AI and statistical approaches that enable interpretation of mechanisms, responsible use of AI in environmental data science, and how AI is a challenge and opportunity to advance environmental data sovereignty. 
+**[Key focus areas](https://cu-esiil.github.io/Innovation-Summit-2026/virtual-meetings/)** co-producing digital twins for environmental futures, building Earth embeddings, AI and causal inference, and identifying best practices for using large language models in environmental data science. **Other potential areas include:** emergent combined AI and statistical approaches that enable interpretation of environmental mechanisms, responsible use of AI in environmental data science, and how AI is a challenge and opportunity to advance environmental data sovereignty. _We welcome domain experts who are simply AI-curious and want to learn more about how AI can apply to biological data and sustainability questions. We also welcome computer science experts who want to apply cutting-edge AI technologies to sustainability questions._
 
 **[APPLY HERE](https://docs.google.com/forms/d/e/1FAIpQLSeS0VqeukcKEbONQvf5lsXpOiOc_4BUbw_MnJZVJIk_Su9o7A/viewform?usp=dialog)** by January 31, 2026
 
 ## Goals
 Attendees should expect to come out of the summit with the following:
 
-- An undestanding of **novel AI** approaches to working with environmental datasets
-- Increased **AI and data skills capabilities**
-- **Transdisciplinary collaborations** across academic, federal, industry, and non-profit partners to facilitate data-driven co-development
+- **Inspire** novel AI approaches that unlock the potential of environmental data
+- **Grow** AI and data skills capabilities in the next-generation workforce
+- **Build** transdisciplinary collaborations and emergent teams across sectors to facilitate data-driven co-development
 - Learn, workshop, and create **best practices** in environmental data science and the responsible use of AI
 
-<img src="assets/esiil_content/dino.png" width="200">    <img src="assets/esiil_content/group.png" width="200">    <img src="assets/esiil_content/smile.png" width="200">
+<img src="assets/esiil_content/dino.png" width="250">    <img src="assets/esiil_content/group.png" width="250">    <img src="assets/esiil_content/smile.png" width="250">
 
 ## Summit Features
 
