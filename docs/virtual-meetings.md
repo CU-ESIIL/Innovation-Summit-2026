@@ -12,6 +12,8 @@ Summit attendees have the opportunity to learn about AI methodologies that are a
 
 - **AI for causal inference** - Date/Time TBD
 
+Please visit our [Key Focus Areas](https://cu-esiil.github.io/Innovation-Summit-2026/Topics/) page to learn more about these topics.
+
 ## All attendees must attend the following virtual trainings (recordings and materials available for asynchronous participation):
 
 **Navigating CyVerse and Github: A Gateway to Advanced Computation for Science** - Date/Time TBD
