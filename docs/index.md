@@ -36,7 +36,6 @@ Throughout the Summit, participants will co-create insights, frameworks, and sol
 **[APPLY HERE](https://docs.google.com/forms/d/e/1FAIpQLSeS0VqeukcKEbONQvf5lsXpOiOc_4BUbw_MnJZVJIk_Su9o7A/viewform?usp=dialog)** by January 31, 2026
 
 ## Goals
-Attendees should expect to come out of the summit with the following:
 
 - **Inspire** novel AI approaches that unlock the potential of environmental data
 - **Grow** AI and data skills capabilities in the next-generation workforce
