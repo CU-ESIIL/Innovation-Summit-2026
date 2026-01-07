@@ -9,7 +9,7 @@
 
 # Welcome to the 2026 ESIIL Innovation Summit
 ## AI for Sustainability: Translating Environmental Data into Decisions
-The 2026 [ESIIL](esiil.org) Innovation Summit will focus on **AI for sustainability**, bringing together teams across academic, federal, industry, and non-profit partners to leverage AI and other analytical approaches to generate new discoveries and insights that will help us better steward our nation’s natural heritage. 
+The 2026 [ESIIL](https://esiil.org/) Innovation Summit will focus on **AI for sustainability**, bringing together teams across academic, federal, industry, and non-profit partners to leverage AI and other analytical approaches to generate new discoveries and insights that will help us better steward our nation’s natural heritage. 
 
 We will focus on [**sustainability**](https://www.un.org/en/academic-impact/sustainability), defined by the United Nations as **meeting the needs of the present without compromising the ability of future generations to benefit from and maintain healthy ecosystems over time**. Further, sustainability balances economic development, social fairness, and environmental protection. 
 
