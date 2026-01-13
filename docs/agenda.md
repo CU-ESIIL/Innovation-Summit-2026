@@ -8,6 +8,8 @@ Detailed Agenda coming soon.
     [:material-map-marker: Venue & travel](#venue-information){ .md-button }
     - **Mon, May 11**
         - :material-account-tie: 1–4 PM MT — *Leadership workshop (invite only)*
+        - :material-handshake: 3-5 PM — *Early Registration*
+        - :material-coffee: 4-6 PM — *Reception with light refreshments*
     - **Tue, May 12**
         - :material-coffee: 8:30–9 AM — *Registration & light breakfast*
         - :material-handshake: 9 AM–5 PM — *Summit*
