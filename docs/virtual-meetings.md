@@ -2,7 +2,7 @@
 Summit attendees have the opportunity to learn about AI methodologies that are available to tackle environmental challenges and how to apply them in their own research and communities. Pre-Summit training events prepare attendees for the goals and theme of the Summit.
 
 ## Training Opportunities: 
-**Choose 1 or attend all 4:**
+**Choose 1 or or more:**
 
 - **Earth Embeddings: Introduction to Earth embeddings and encoding earth data into vector representations** - Date/Time TBD
 
