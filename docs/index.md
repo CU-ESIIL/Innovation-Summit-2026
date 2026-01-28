@@ -128,7 +128,21 @@ For those who will need to park a vehicle on campus to attend the Summit, we wil
 * Boulder Community Hospital 303-415-7000: 4747 Arapahoe Ave, Boulder, CO 80303
 
 ### Internet Access
-Access wireless service on campus by selecting UCB Guest Wireless from your available Wi-Fi network options and accepting the terms and conditions upon opening your web browser. You will be prompted to re-accept these terms and conditions periodically. If you encounter difficulty accessing the Internet, call 303-735-HELP (4357) or email help@colorado.edu for assistance during their business hours. Check firewalls or security settings on your computer that could possibly complicate accessing the campus Wi-Fi system before you arrive.
+*Step 1: Request Guest Wi-Fi Credentials*
+- Open your device's Wi-Fi networks and select CU Guest.
+- On the CU Guest login page, click Register for CU Guest.
+- On the registration page, enter your contact information, accept the terms of service, and click Register.
+- A confirmation page will indicate that your guest Wi-Fi credentials were sent to the email account you provided.
+- Check your email for a new message from CU Boulder Campus Wi-Fi (wifi_noreply@colorado.edu) with your temporary guest Wi-Fi credentials.
+
+*Step 2: Log in to CU Guest Wi-Fi*
+- On the CU Guest login page, enter the guest username and password provided to you, then click Log in to CU Guest.
+- On first login only: For security purposes, guests are required to change their password upon first login. New passwords must be at least eight characters long and use a combination of uppercase letters, lowercase letters and numbers. Record the password in a secure location, then click Change Password.
+- A confirmation page will indicate that you've logged in successfully and recommend checking your connection to CU Guest Wi-Fi. If your device isn't connected, follow the troubleshooting steps on the page.
+- Guests are required to log in daily. Guest credentials remain active for seven days and can be used on up to three different devices.
+
+
+If you encounter difficulty accessing the Internet, call 303-735-HELP (4357) or email help@colorado.edu for assistance during their business hours. Check firewalls or security settings on your computer that could possibly complicate accessing the campus Wi-Fi system before you arrive.
 
 ## Hotels
 We have a negotiated rate at a nearby hotel. Please book by April 10, 2026 to receive this negotiated rate. 
