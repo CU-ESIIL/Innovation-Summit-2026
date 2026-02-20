@@ -1,6 +1,6 @@
 ![header](assets/esiil_content/2026header_new.png)
 
-!!! Success "[Click here to apply!](https://docs.google.com/forms/d/e/1FAIpQLSeS0VqeukcKEbONQvf5lsXpOiOc_4BUbw_MnJZVJIk_Su9o7A/viewform?usp=dialog)"
+!!! Success "Thank you for applying. We will be sending out acceptance notifications the week of February 23."
 
     🗓️ May 12-14, 2026
 
@@ -32,8 +32,6 @@ Summit attendees will learn about AI and data methodologies that are available t
 The Summit is designed for anyone eager to shape the future of AI-driven environmental discovery. This event is ideal for researchers, practitioners, and decision-makers who work with, or aspire to work with, AI, data science, and large-scale environmental information to advance sustainability. Participants from a range of different sectors, disciplinary expertise, career stage and experience are encouraged to apply.
 
 Throughout the Summit, participants will co-create insights, frameworks, and solutions that support a more sustainable and resilient future.
-
-**[APPLY HERE](https://docs.google.com/forms/d/e/1FAIpQLSeS0VqeukcKEbONQvf5lsXpOiOc_4BUbw_MnJZVJIk_Su9o7A/viewform?usp=dialog)** by January 31, 2026
 
 ## Goals
 
