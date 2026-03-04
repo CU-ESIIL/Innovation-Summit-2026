@@ -131,7 +131,7 @@ Select your name below to open your scratchpad.
 - [Ellie](ellie.md)
 - [Holly](holly.md)
 - [Emily Nagamoto- Katherine's grad student](emily-nagamoto-katherine-s-grad-student.md)
-- [Spare 1](spare-1.md)
+- [Ria](ria-gupta.md)
 - [Spare 2](spare-2.md)
 - [Spare 3](spare-3.md)
 - [Spare 4](spare-4.md)
