@@ -14,7 +14,7 @@ Summit attendees have the opportunity to learn about AI methodologies that are a
 - [Main document: ESIIL's Python Quickstart Guide](https://cu-esiil.github.io/home/quickstart/python/)
 - Recording will be available here
 
-**Data Jam: Aligning participants around topics, products, and AI tools** - Thursday, April 30, 1-3 pm MT
+**Science Jam: Aligning participants around topics, products, and AI tools** - Thursday, April 30, 1-3 pm MT
 
 ## Summit Training Opportunities: 
 ESIIL will provide trainings on the following topics at the Summit. You will have the opportunity to attend 2 trainings, 1 on Day 1 and 1 on Day 2.
