@@ -12,4 +12,3 @@
 
 [NSF Intellectual Property Agreement](https://www.nsf.gov/policies/intellectual-property)
 
-
