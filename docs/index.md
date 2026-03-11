@@ -126,19 +126,12 @@ For those who will need to park a vehicle on campus to attend the Summit, we wil
 * Boulder Community Hospital 303-415-7000: 4747 Arapahoe Ave, Boulder, CO 80303
 
 ### Internet Access
-*Step 1: Request Guest Wi-Fi Credentials*
-- Open your device's Wi-Fi networks and select CU Guest.
-- On the CU Guest login page, click Register for CU Guest.
-- On the registration page, enter your contact information, accept the terms of service, and click Register.
-- A confirmation page will indicate that your guest Wi-Fi credentials were sent to the email account you provided.
-- Check your email for a new message from CU Boulder Campus Wi-Fi (wifi_noreply@colorado.edu) with your temporary guest Wi-Fi credentials.
+Instructions:
+User will navigate to their Wi-Fi settings and select CU Guest from the options.
+When the login page opens, enter the credentials provided at the event.
 
-*Step 2: Log in to CU Guest Wi-Fi*
-- On the CU Guest login page, enter the guest username and password provided to you, then click Log in to CU Guest.
-- On first login only: For security purposes, guests are required to change their password upon first login. New passwords must be at least eight characters long and use a combination of uppercase letters, lowercase letters and numbers. Record the password in a secure location, then click Change Password.
-- A confirmation page will indicate that you've logged in successfully and recommend checking your connection to CU Guest Wi-Fi. If your device isn't connected, follow the troubleshooting steps on the page.
-- Guests are required to log in daily. Guest credentials remain active for seven days and can be used on up to three different devices.
-
+Username: TBD
+Password: TBD
 
 If you encounter difficulty accessing the Internet, call 303-735-HELP (4357) or email help@colorado.edu for assistance during their business hours. Check firewalls or security settings on your computer that could possibly complicate accessing the campus Wi-Fi system before you arrive.
 
@@ -153,7 +146,7 @@ We have a negotiated rate at a nearby hotel. Please book by April 10, 2026 to re
 In addition, CU Boulder has set negotiated rates with hotels all around Boulder and the surrounding area, which should provide some different options depending on your budget. When booking with one of these hotels [(instructions on the site)](https://www.cu.edu/preferred-hotel-program-local/preferred-hotel-program-local-ucb), note that you need to mention “The University of Colorado special rate” and that you will be staying for a university-sponsored event. 
 
 ## Event Photography
-We plan to take some photos of activities throughout the course of the week for use in internal and external publications. If you do not wish to have your image recorded for distribution, please inform the photographer and/or email Casey.Jenson@colorado.edu. By participating in ESIIL events, you are agreeing to the use of your photos unless you notify us in writing of your desire to opt out of being photographed. 
+We plan to take some photos of activities throughout the course of the week for use in internal and external publications. If you do not wish to have your image recorded for distribution, please inform the photographer and/or email esiil@colorado.edu. By participating in ESIIL events, you are agreeing to the use of your photos unless you notify us in writing of your desire to opt out of being photographed. 
 
 ## Weather and Packing
 Boulder is 5,430 feet in elevation and has a sunny, semi-arid climate. Hydrating during your stay is very important, as altitude sickness (headache, nausea, shortness of breath, dizziness, and tiredness) can occur.
