@@ -128,7 +128,7 @@ Password: TBD
 If you encounter difficulty accessing the Internet, call 303-735-HELP (4357) or email help@colorado.edu for assistance during their business hours. Check firewalls or security settings on your computer that could possibly complicate accessing the campus Wi-Fi system before you arrive.
 
 ## Hotels
-We have a negotiated rate at a nearby hotel. Please book by April 10, 2026 to receive this negotiated rate. 
+We have a negotiated rate at a nearby hotel. Please book by **April 10, 2026** to receive this negotiated rate. 
 
 ### [Homewood Suites](https://www.hilton.com/en/hotels/boucohw-homewood-suites-boulder/)
 * Address:4950 Baseline Rd., Boulder, Colorado, 80303
