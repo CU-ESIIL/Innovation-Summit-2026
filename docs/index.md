@@ -1,6 +1,6 @@
 ![header](assets/esiil_content/2026header_new.png)
 
-!!! Success "Thank you for applying. We will be sending out acceptance notifications the week of February 23."
+!!! Success
 
     🗓️ May 12-14, 2026
 
