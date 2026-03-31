@@ -1,6 +1,5 @@
 ![header](assets/esiil_content/2026header_new.png)
 
-!!!
 
     🗓️ May 12-14, 2026
 
