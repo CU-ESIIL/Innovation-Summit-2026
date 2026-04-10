@@ -20,7 +20,7 @@ Led by: [Cassie Buhler](https://cassiebuhler.github.io/) and [Ty Tuff](https://c
 
 **Best practices for using large language models for sustainability**: Large language models provide powerful new capabilities for scientific synthesis, enabling researchers and stakeholders to rapidly integrate information, generate hypotheses, and construct analytical workflows that accelerate environmental discovery and solutions generation. As conservation challenges intensify, LLMs will become important tools for exploring environmental futures—helping [decision makers compare alternative trajectories and conduct spatial planning](https://cu-esiil.github.io/AI-opt-decision-making/), evaluate new text-derived data about threatened species, and assess global change impacts through natural language processing of social media. The rapid uptake of LLMs in the context of sustainability, however, raises critical questions about how to quantify uncertainty, detect and mitigate bias, and ensure environmentally responsible and energy-efficient workflows. Break out groups will explore these emerging challenges and opportunities, helping to develop [community-based best practices](https://esiil.org/working-groups/envirollm-guidelines) for using LLMs to advance both environmental understanding and sustainability-oriented decision making. 
 
- **AI for causal inference** 
+4. **AI for causal inference** 
 
 Led by: [Katherine Siegel](https://cires.colorado.edu/people/katherine-siegel)
 
