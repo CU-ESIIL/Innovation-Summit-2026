@@ -4,7 +4,7 @@ ESIIL will provide trainings on the following topics at the Summit. You will hav
 
 1. **Earth Embeddings: Introduction to Earth embeddings and encoding earth data into vector representations**
 
-Led by: [Esther Rolf](https://www.estherrolf.com/), [VeeVee Cai](https://arizonat.github.io/), and [Cullen Moliter](https://emlab.ucsb.edu/about/our-team/cullen-molitor)
+Led by: [Esther Rolf](https://www.estherrolf.com/), [VeeVee Cai](https://arizonat.github.io/), and [Cullen Molitor](https://emlab.ucsb.edu/about/our-team/cullen-molitor)
 
 **Earth embeddings for sustainability solutions**: Earth embeddings, a type of compression of the original data source, keep viable information from environmental data while preparing it for use in AI models to make predictions. Break out groups can use cutting-edge Earth embeddings already developed by the ESIIL team and partners, e.g., the [MOSAIKS](https://www.mosaiks.org/) (Multi-task Observation using SAtellite Imagery and Kitchen Sinks) embedding method tailored to multispectral satellite imagery or computer vision models that identify wildlife in images. We seek to inspire teams to develop a critically-needed library of approaches for embeddings that leverage the variety of environmental biology data (e.g., acoustic data, satellite data, landscape data, camera-trap data, eDNA data, and many others) that will enable us to use AI to ask questions about how species and ecosystems will respond to future global change.   
 
