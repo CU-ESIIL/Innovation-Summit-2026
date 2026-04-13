@@ -8,7 +8,7 @@ Led by: [Esther Rolf](https://www.estherrolf.com/), [VeeVee Cai](https://arizona
 
 **Earth embeddings for sustainability solutions**: Earth embeddings, a type of compression of the original data source, keep viable information from environmental data while preparing it for use in AI models to make predictions. Break out groups can use cutting-edge Earth embeddings already developed by the ESIIL team and partners, e.g., the [MOSAIKS](https://www.mosaiks.org/) (Multi-task Observation using SAtellite Imagery and Kitchen Sinks) embedding method tailored to multispectral satellite imagery or computer vision models that identify wildlife in images. We seek to inspire teams to develop a critically-needed library of approaches for embeddings that leverage the variety of environmental biology data (e.g., acoustic data, satellite data, landscape data, camera-trap data, eDNA data, and many others) that will enable us to use AI to ask questions about how species and ecosystems will respond to future global change.   
 
- **Digital Twins: AI and CI tools for continental-scale near-real-time data stream, predictions, and forecasting systems** 
+2. **Digital Twins: AI and CI tools for continental-scale near-real-time data stream, predictions, and forecasting systems** 
 
 Led by: [Cibele Amaral](https://cires.colorado.edu/people/cibele-hummel-do-amaral) and [Virginia Iglesias](https://cires.colorado.edu/people/virginia-iglesias)
 
@@ -22,7 +22,7 @@ Led by: [Cassie Buhler](https://cassiebuhler.github.io/) and [Ty Tuff](https://c
 
 4. **AI for causal inference** 
 
-Led by: [Katherine Siegel](https://cires.colorado.edu/people/katherine-siegel)
+Led by: [Katherine Siegel](https://cires.colorado.edu/people/katherine-siegel) and [Brian Lee](https://esiil.org/about/brian-lee)
 
 **AI and causal inference—understanding ecological mechanisms & levers for decision-making**: In environmental science, ecology, and resource management, we often seek to understand cause-and-effect relationships, such as identifying the drivers of tree mortality or quantifying the effect of fisheries management on coral reef health. [The field of causal inference leverages large observational datasets to detect and quantify causal relationships in complex social-ecological systems](https://onlinelibrary.wiley.com/doi/10.1111/ele.70053). Recent advances in machine learning/AI can advance causal understanding by assessing heterogeneity in causal effects, capturing nonlinear relationships and complex interactions, and expanding the types of data available for causal inquiry. Yet all causal inference relies on fundamental domain knowledge of the social-ecological system of study. Breakout groups will seek methodological advances in the fusion of causal inference with machine learning and AI, and identify research questions that advance understanding of sustainability. 
 
