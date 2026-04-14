@@ -27,11 +27,6 @@ Summit attendees will learn about AI and data methodologies that are available t
 
 **Other potential areas include:** emergent combined AI and statistical approaches that enable interpretation of environmental mechanisms, responsible use of AI in environmental data science, and how AI is a challenge and opportunity to advance environmental data sovereignty. 
 
-**Who should apply?** 
-The Summit is designed for anyone eager to shape the future of AI-driven environmental discovery. This event is ideal for researchers, practitioners, and decision-makers who work with, or aspire to work with, AI, data science, and large-scale environmental information to advance sustainability. Participants from a range of different sectors, disciplinary expertise, career stage and experience are encouraged to apply.
-
-Throughout the Summit, participants will co-create insights, frameworks, and solutions that support a more sustainable and resilient future.
-
 ## Goals
 
 - **Inspire** novel AI approaches that unlock the potential of environmental data
@@ -75,12 +70,8 @@ What past attendees had to say:
 ## Training Opportunities
 To prepare for the theme and goals of the Summit, all attendees will be invited to virtual training and networking opportunities prior to the event. Details about our key themes and pre-event training events can be found on our ["Pre-Summit Trainings" page](https://cu-esiil.github.io/Innovation-Summit-2026/virtual-meetings/) 🔝. 
 
-## Who Should Attend? 
-The **2026 ESIIL Innovation Summit** aims to bring together participants who are eager to shape the future of AI-driven environmental discovery. The Summit will focus on identifying opportunities for data synthesis, exploring the cutting-edge capabilities of AI, and fostering innovative sustainability solutions through collaborative teams. Whether your expertise lies in environmental science, computer science, management, or community engagement, this event will offer valuable insights and the chance to collaborate with others from a variety of sectors. We encourage applications from individuals across all career stages and disciplines. 
-
-**Registration:** Accepted applicants will be sent a confirmation from to confirm their attendance.
-
-**Finances:** There is no registration fee for accepted participants to attend the Innovation Summit or associated trainings and workshops. A limited number of travel awards of up to $1,200 are available to help defray airfare/mileage and accommodation costs. Simple snacks, beverages, and lunch will be provided during the event. 
+## Event Slack
+Join our 2026 Summit Slack to connect with other attendees and receive important event announcements. Click [here](https://join.slack.com/t/2026esiilsummit/shared_invite/zt-3v9fti64m-cj_iaQaFAypojX8Xn7zZjA) to join. 
 
 ## Venue Information
 The Innovation Summit will be held at the University of Colorado Boulder East Campus [SEEC Building](https://seec.colorado.edu/home), **C120 Auditorium**. 
@@ -118,7 +109,7 @@ For those who will need to park a vehicle on campus to attend the Summit, please
 
 ### Internet Access
 Instructions:
-User will navigate to their Wi-Fi settings and select CU Guest from the options.
+User will navigate to their Wi-Fi settings and select "CU Guest" from the options.
 When the login page opens, enter the credentials provided at the event.
 
 Username: TBD
