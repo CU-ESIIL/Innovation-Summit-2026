@@ -16,4 +16,7 @@ Here is a list of suggested articles to read as you start to explore ideas withi
 **Digital Twins:**
 - [Digital twins of the Earth with and for humans](https://www.nature.com/articles/s43247-024-01626-x)
 
+**LLMs for robust application in environmental sciences**
+- [New opportunities and challenges for conservation evidence synthesis from advances in natural language processing](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/cobi.14464)
+
 Do you have recommended reading? Please send it to esiil@colorado.edu.
