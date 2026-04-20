@@ -7,7 +7,7 @@ Here is a list of suggested articles to read as you start to explore ideas withi
 - Video: [How AI is Transforming Conservation Science](https://www.npr.org/2025/11/28/nx-s1-5581301/how-ai-is-transforming-conservation-science)
 
 **Earth embeddings:**
-- [Earth EmbeddingsTowards AI-centric Representations of our Planet](https://eartharxiv.org/repository/view/11083/)
+- [Earth Embeddings Towards AI-centric Representations of our Planet](https://eartharxiv.org/repository/view/11083/)
 
 **Causal inference and AI:**
 - [Foundations and future directions for causal inference in ecological research](https://doi.org/10.1111/ele.70053)
