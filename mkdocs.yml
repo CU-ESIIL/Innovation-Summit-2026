@@ -30,7 +30,7 @@ nav:
            - Stream data: data-library/stac_mount_save.md
            - Stream data (light): data-library/stac_simple.md
            - Shutdown procedure: resources/cyverse_shutdown.md
-       - Users 
+       - Users :
            - 'Aakriti Joshi': https://github.com/CU-ESIIL/Innovation-Summit-2026/blob/main/docs/learners/aakriti-joshi.md
            - 'Aashish Gautam': https://github.com/CU-ESIIL/Innovation-Summit-2026/blob/main/docs/learners/aashish-gautam.md
            - 'Aashish Mukund': https://github.com/CU-ESIIL/Innovation-Summit-2026/blob/main/docs/learners/aashish-mukund.md
