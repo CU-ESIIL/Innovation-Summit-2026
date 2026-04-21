@@ -16,6 +16,7 @@ Welcome to the **[Your Team Name]** repository, an integral part of ESIIL and Ea
 ## Group Members
 - Member 1: Brief description
 - Member 2: Brief description
+- Member 3: Brief description
 - ...
 - [Link to more detailed bios or profiles if available and desired.]
 
