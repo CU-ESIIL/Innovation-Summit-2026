@@ -2,4 +2,5 @@
 
 <!-- Add learner profile content here -->
 
-Disease ecologists,
+Disease ecologists, Postdoc from University of Notre Dame, IN.
+
