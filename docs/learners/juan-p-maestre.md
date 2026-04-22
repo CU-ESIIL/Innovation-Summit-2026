@@ -6,4 +6,4 @@ Yayyy!
 
 I am ready to commit!
 
-New commit! Earth Thursday! New change
+New commit! Earth Thursday! New changes upcoming <3
