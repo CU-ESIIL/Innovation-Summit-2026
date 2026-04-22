@@ -7,7 +7,7 @@ Summit attendees have the opportunity to learn about AI methodologies that are a
 
 - [Main document: ESIIL's Cloud Computing Quickstart Guide](https://cu-esiil.github.io/home/quickstart/cloud/)
 - Please set up a [GitHub account](https://github.com/) and a [CyVerse account](https://user.cyverse.org/signup) and let us know your usernames by completing this [quick form](https://docs.google.com/forms/d/e/1FAIpQLSccCdVt3RmCvHXBRrg1n8gYKiw5QUuOMezvhGs5fr9CGkcTjA/viewform?usp=dialog).
-- Recording will be available here
+- [VIEW RECORDING HERE](https://o365coloradoedu.sharepoint.com/:v:/s/CIRES-ESIIL/IQBOmlygHQ_EQoYDzLlXZJ0VAaAatMNvKDJcHNSQvyEWjK4?e=gbAl0w)
   
 **Creative Data Exploration in the Cloud with AI: Innovating with Open Science** - Tuesday, April 28, 1-3 pm MT
 
