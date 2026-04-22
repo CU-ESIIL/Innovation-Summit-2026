@@ -3,3 +3,5 @@
 <!-- Add learner profile content here --> 
 I am a graduate student in Integrative Biology who is interested in computational ecology, spatial analyses and network analysis. 
 https://lmansf44.github.io/
+
+I'm excited to attend the summit!
