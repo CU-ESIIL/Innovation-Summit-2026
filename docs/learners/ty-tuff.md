@@ -1,3 +1,3 @@
 # Ty Tuff
 
-<!-- Add learner profile content here -->
+I'm trying to keep my computer from melting in the heat. 
