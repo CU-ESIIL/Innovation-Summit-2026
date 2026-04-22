@@ -1,3 +1,3 @@
 # Danish Kumar
 
-<!-- Add learner profile content here -->
+I am trying to follow the tutorial
