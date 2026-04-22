@@ -1,3 +1,2 @@
 # Aleksander Berg
-
-<!-- Add learner profile content here -->
+Hello world!
