@@ -1,3 +1,3 @@
 # Shashi Konduri
 
-<!-- Add learner profile content here -->
+<!-- Made edits during the pre-summit training session on 04/22 -->
