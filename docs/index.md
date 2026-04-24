@@ -5,6 +5,8 @@
 
     📍 University of Colorado Boulder 
 
+    Remember to bring your computer to the Summit!
+
 
 # Welcome to the 2026 ESIIL Innovation Summit
 ## AI for Sustainability: Translating Environmental Data into Decisions
