@@ -10,10 +10,11 @@ At the Summit, you will pick your product, topic, and team.
 
 As a starting point, we've taken the input from your confirmation forms to create these topics and example questions. 
 
-1. **Ecosystem Dynamics & Conservation** 
+**Ecosystem Dynamics & Conservation** 
 * How can AI support conservation planning by balancing ecosystem services tradeoffs (e.g., biodiversity vs carbon storage vs water quality)?
 * How can we unify genetic, species, and ecosystem-level biodiversity data to detect ecosystem thresholds and inform decision-making?
-2. **Aquatic Systems** 
+
+**Aquatic Systems** 
 * How can AI-enabled data harmonization improve flood forecasting and sustainable allocation under climate change?
 * In what ways can AI support sustainable management of fisheries, freshwater, and marine ecosystems?
  3. **Food Systems & Agriculture**
