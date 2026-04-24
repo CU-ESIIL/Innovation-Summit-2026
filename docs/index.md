@@ -112,8 +112,8 @@ Instructions:
 User will navigate to their Wi-Fi settings and select "CU Guest" from the options.
 When the login page opens, enter the credentials provided at the event.
 
-Username: TBD
-Password: TBD
+Username: esiil-summit
+Password: Innovation2026!
 
 If you encounter difficulty accessing the Internet, call 303-735-HELP (4357) or email help@colorado.edu for assistance during their business hours. Check firewalls or security settings on your computer that could possibly complicate accessing the campus Wi-Fi system before you arrive.
 
