@@ -1,5 +1,5 @@
 # Pre-Summit Virtual Meetings
-Summit attendees have the opportunity to learn about AI methodologies that are available to tackle environmental challenges and how to apply them in their own research and communities. Pre-Summit training events prepare attendees for the goals and theme of the Summit.
+Summit attendees have the opportunity to learn about AI methodologies that are available to tackle environmental challenges and how to apply them in their own research and communities. Pre-Summit training events prepare attendees for the goals and theme of the Summit. **Please bring your computer to the Summit.**
 
 ## All attendees must attend the following virtual trainings (recordings and materials available for asynchronous participation):
 
