@@ -137,6 +137,8 @@ Weather conditions can change rapidly throughout each day and from day to day. L
 
 The average temperature in Boulder in May for a typical day ranges from a high of 65-70F to a low of 35-45F. Some would describe the temperature to be moderately chilly. The general area may also feel breezy. The sun is strong in Boulder, so please bring sunscreen, sunglasses, and a hat. There are many trails near Boulder, so hiking or running shoes and a set of workout clothes can help get you outside during your stay.
 
+**Also, please bring a computer to the Summit each day.**
+
 ## Transportation
 
 ### Air Transportation
