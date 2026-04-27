@@ -1,5 +1,8 @@
 # Science Jam
 
+**Date:** Thursday, April 30, 1-3 PM MT
+**Zoom:** https://cuboulder.zoom.us/j/92287247657
+
 The goal of the Science Jam is to match people together with a topic they are interested in and a product that is exciting to them. Teams might shuffle a little, but our hope is that the Science Jam helps you start to find your team ahead of the Summit.  
 
 After the Jam, you will have access to all of the materials so you can revisit them and expand on ideas leading up to the Summit. 
