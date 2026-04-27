@@ -8,7 +8,7 @@ At the Summit, you will pick your product, topic, and team.
 
 ## AI for Sustainability Topics and Example Questions
 
-As a starting point, we've taken the input from your confirmation forms to create these topics and example questions. 
+As a starting point, we've taken the input from your confirmation forms to create these **topics** and **example questions**. 
 
 1. **Ecosystem Dynamics & Conservation** 
 
