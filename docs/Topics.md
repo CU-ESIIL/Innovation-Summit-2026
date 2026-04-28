@@ -22,7 +22,7 @@ Led by: [Cassie Buhler](https://cassiebuhler.github.io/) and [Ty Tuff](https://c
 
 ### **AI for causal inference** 
 
-Led by: [Katherine Siegel](https://cires.colorado.edu/people/katherine-siegel) and [Brian Lee](https://esiil.org/about/brian-lee)
+Led by: [Katherine Siegel](https://cires.colorado.edu/people/katherine-siegel), [Timothy Ohlert](https://tim-ecology.weebly.com/), and [Brian Lee](https://esiil.org/about/brian-lee)
 
 **AI and causal inference—understanding ecological mechanisms & levers for decision-making**: In environmental science, ecology, and resource management, we often seek to understand cause-and-effect relationships, such as identifying the drivers of tree mortality or quantifying the effect of fisheries management on coral reef health. [The field of causal inference leverages large observational datasets to detect and quantify causal relationships in complex social-ecological systems](https://onlinelibrary.wiley.com/doi/10.1111/ele.70053). Recent advances in machine learning/AI can advance causal understanding by assessing heterogeneity in causal effects, capturing nonlinear relationships and complex interactions, and expanding the types of data available for causal inquiry. Yet all causal inference relies on fundamental domain knowledge of the social-ecological system of study. Breakout groups will seek methodological advances in the fusion of causal inference with machine learning and AI, and identify research questions that advance understanding of sustainability. 
 
