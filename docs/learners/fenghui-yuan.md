@@ -2,7 +2,7 @@
 
 <!-- Add learner profile content here -->
 
-![avatar](https://avatars.githubusercontent.com/u/60026707?v=4)
+<img src="https://avatars.githubusercontent.com/u/60026707?v=4" style="border-radius:50%; width:100px;">
 
 
 Hi there! 
