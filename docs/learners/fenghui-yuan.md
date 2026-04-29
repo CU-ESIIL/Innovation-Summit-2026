@@ -2,6 +2,9 @@
 
 <!-- Add learner profile content here -->
 
+![avatar](https://avatars.githubusercontent.com/u/60026707?v=4)
+
+
 Hi there! 
 
 I’m an ecosystem modeler at the University of Minnesota.
