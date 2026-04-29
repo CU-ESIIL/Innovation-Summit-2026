@@ -12,7 +12,7 @@ Summit attendees have the opportunity to learn about AI methodologies that are a
 **Creative Data Exploration in the Cloud with AI: Innovating with Open Science** - Tuesday, April 28, 1-3 pm MT
 
 - [Main document: ESIIL's Python Quickstart Guide](https://cu-esiil.github.io/home/quickstart/python/)
-- Recording will be available here
+- [VIEW RECORDING HERE](https://o365coloradoedu.sharepoint.com/:v:/s/CIRES-ESIIL/IQAVXuBbGIG6TqWzSU8rHSXlAe6nr9YpX23VdleVFpE4n_A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=I3tUx3)
 
 **Science Jam: Aligning participants around topics, products, and AI tools** - Thursday, April 30, 1-3 pm MT
 
