@@ -2,13 +2,18 @@
 
 **Date:** Thursday, April 30, 1-3 PM MT
 
-**Zoom:** https://cuboulder.zoom.us/j/92287247657
 
 The goal of the Science Jam is to match people together with a topic they are interested in and a product that is exciting to them. Teams might shuffle a little, but our hope is that the Science Jam helps you start to find your team ahead of the Summit.  
 
 After the Jam, you will have access to all of the materials so you can revisit them and expand on ideas leading up to the Summit. 
 
 At the Summit, you will pick your product, topic, and team. 
+
+**Science Jam Resources**
+- [Brainstorming Sheets](https://drive.google.com/drive/folders/1b1ZxAyTG-2YpJsxytnXcvhaZafgCHOZB?usp=drive_link)
+  - Note the "instructions tab"
+  - You may add ideas until May 3
+- [VIEW RECORDING HERE](https://o365coloradoedu.sharepoint.com/:v:/s/CIRES-ESIIL/IQAUhN6e6_rnQI9E2x23kB5rAQmjMPFs3kSbOrrWeXLBT0s?e=P0FkD4)
 
 ## AI for Sustainability Topics and Example Questions
 
