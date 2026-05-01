@@ -16,6 +16,11 @@ Summit attendees have the opportunity to learn about AI methodologies that are a
 
 **Science Jam: Aligning participants around topics, products, and AI tools** - Thursday, April 30, 1-3 pm MT
 
+- [Brainstorming Sheets](https://drive.google.com/drive/folders/1b1ZxAyTG-2YpJsxytnXcvhaZafgCHOZB?usp=drive_link)
+  - Note the "instructions tab"
+  - You may add ideas until May 3
+- [VIEW RECORDING HERE](https://o365coloradoedu.sharepoint.com/:v:/s/CIRES-ESIIL/IQAUhN6e6_rnQI9E2x23kB5rAQmjMPFs3kSbOrrWeXLBT0s?e=P0FkD4)
+
 ## Summit Training Opportunities: 
 ESIIL will provide trainings on the following topics at the Summit. You will have the opportunity to attend 2 trainings, 1 on Day 1 and 1 on Day 2.
 **Choose 2 (you may attend the same training 2 times):**
