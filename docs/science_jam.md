@@ -12,7 +12,7 @@ At the Summit, you will pick your product, topic, and team.
 **Science Jam Resources**
 - [Brainstorming Sheets](https://drive.google.com/drive/folders/1b1ZxAyTG-2YpJsxytnXcvhaZafgCHOZB?usp=drive_link)
   - Note the "instructions tab"
-  - You may add ideas until May 3
+  - You may add ideas until May 3. Please do not delete or type over anyone else’s idea.
 - [VIEW RECORDING HERE](https://o365coloradoedu.sharepoint.com/:v:/s/CIRES-ESIIL/IQAUhN6e6_rnQI9E2x23kB5rAQmjMPFs3kSbOrrWeXLBT0s?e=P0FkD4)
 
 ## AI for Sustainability Topics and Example Questions
