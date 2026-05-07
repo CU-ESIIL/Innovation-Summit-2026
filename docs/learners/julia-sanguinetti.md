@@ -1,3 +1,3 @@
 # Julia Sanguinetti
 
-<!-- Add learner profile content here -->
+Hi, I'm Julia
