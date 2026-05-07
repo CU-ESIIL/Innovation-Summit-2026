@@ -1,5 +1,5 @@
 
-Detailed Agenda coming soon.
+[Detailed Agenda](https://docs.google.com/document/d/1yn-Iu-pqgJ5GpA_2XtRwAGVOX2iLHNuOgE-AzCY8CEM/edit?usp=sharing)
 
 <div class="grid cards" markdown>
 
