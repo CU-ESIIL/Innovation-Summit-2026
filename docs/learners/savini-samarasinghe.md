@@ -1,3 +1,2 @@
 # Savini Samarasinghe
-
-<!-- Add learner profile content here -->
+Hi I'm Savini!
