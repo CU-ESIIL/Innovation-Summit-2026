@@ -55,6 +55,8 @@ Summit attendees will learn about AI and data methodologies that are available t
     Deepen your understanding of team science, ethical practice, and leadership in environmental data science.
 </div>
 
+## Data Library
+[View the 2026 Innovation Summit Data Library](https://cu-esiil.github.io/data-library/innovation-summit-2026/)
 
 ## What to Expect at the Summit
 The Summit will take the form of an **‘unconference’**, a flexible and interactive event designed to foster **collaboration and innovation**. Attendees are encouraged to participate in discussions, workgroups, and brainstorming sessions centered around the themes that interest them most. The format encourages **co-creation** of solutions, with ample opportunities for spontaneous interactions and cross-disciplinary teamwork.
