@@ -176,23 +176,51 @@ body:has(.summit-team-gallery) .md-content__inner {
   background: var(--md-default-bg-color);
   border: 1px solid var(--md-default-fg-color--lightest);
   box-shadow: 0 0.4rem 1.2rem rgba(0,0,0,0.12);
+  transition: transform 180ms ease, box-shadow 180ms ease;
+}
+
+.summit-team-card:hover {
+  transform: translateY(-6px) scale(1.02);
+  box-shadow: 0 0.8rem 2rem rgba(0,0,0,0.18);
 }
 
 .site-preview {
   position: relative;
   width: 100%;
-  height: 230px;
+  aspect-ratio: 4 / 3;
   overflow: hidden;
   background: #f4f4f4;
 }
 
 .site-preview iframe {
-  width: 1440px;
-  height: 900px;
-  border: 0;
-  pointer-events: none;
-  transform: scale(0.22) translateX(-260px);
-  transform-origin: top left;
+  display: none;
+}
+
+.team-preview-card {
+  height: 100%;
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 0.55rem;
+  background:
+    radial-gradient(circle at top left, rgba(53, 196, 222, 0.22), transparent 34%),
+    linear-gradient(135deg, #ffffff, #eef7fb);
+}
+
+.team-preview-title {
+  font-size: clamp(2rem, 4vw, 3.4rem);
+  font-weight: 900;
+  line-height: 1;
+  color: #204761;
+}
+
+.team-preview-subtitle {
+  font-size: clamp(0.9rem, 1.5vw, 1.15rem);
+  font-weight: 700;
+  color: #204761;
+  opacity: 0.82;
 }
 
 .summit-team-label {
@@ -203,74 +231,52 @@ body:has(.summit-team-gallery) .md-content__inner {
 }
 
 @media screen and (max-width: 1100px) {
-  .summit-team-gallery { grid-template-columns: repeat(3, 1fr); }
+  .summit-team-gallery {
+    grid-template-columns: repeat(3, 1fr);
+  }
 }
 
 @media screen and (max-width: 800px) {
-  .summit-team-gallery { grid-template-columns: repeat(2, 1fr); }
+  .summit-team-gallery {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
 
 @media screen and (max-width: 520px) {
-  .summit-team-gallery { grid-template-columns: 1fr; }
+  .summit-team-gallery {
+    grid-template-columns: 1fr;
+  }
 }
 </style>
 
 <script>
 (function () {
-  function activateSummitReportOut(iframe, attempts) {
-    let doc;
-    let win;
-    try {
-      doc = iframe.contentDocument;
-      win = iframe.contentWindow;
-    } catch (error) {
-      return;
-    }
+  function initStaticTeamPreviews() {
+    document.querySelectorAll(".summit-team-card").forEach((card) => {
+      const label = card.querySelector(".summit-team-label")?.textContent?.trim() || "Team";
+      const preview = card.querySelector(".site-preview");
 
-    if (!doc || !win || !doc.body) {
-      if (attempts < 30) {
-        window.setTimeout(() => activateSummitReportOut(iframe, attempts + 1), 150);
-      }
-      return;
-    }
+      if (!preview || preview.dataset.staticPreviewReady === "true") return;
 
-    if (doc.body.classList.contains("presentation-mode")) {
-      return;
-    }
+      preview.dataset.staticPreviewReady = "true";
 
-    const button = doc.querySelector("[data-oasis-present-toggle], .oasis-present-button");
-    if (button) {
-      button.click();
-    } else {
-      doc.dispatchEvent(new win.KeyboardEvent("keydown", {
-        key: "p",
-        bubbles: true
-      }));
-    }
-
-    if (!doc.body.classList.contains("presentation-mode") && attempts < 30) {
-      window.setTimeout(() => activateSummitReportOut(iframe, attempts + 1), 150);
-    }
-  }
-
-  function initSummitTeamPreviews() {
-    document.querySelectorAll(".site-preview iframe").forEach((iframe) => {
-      if (iframe.dataset.summitReportOutBound === "true") return;
-      iframe.dataset.summitReportOutBound = "true";
-      iframe.addEventListener("load", () => activateSummitReportOut(iframe, 0));
-      if (iframe.contentDocument?.readyState === "complete") {
-        activateSummitReportOut(iframe, 0);
-      }
+      preview.innerHTML = `
+        <div class="team-preview-card">
+          <div class="team-preview-title">${label}</div>
+          <div class="team-preview-subtitle">Make Me Your Own</div>
+        </div>
+      `;
     });
   }
 
   if (document.readyState === "loading") {
-    document.addEventListener("DOMContentLoaded", initSummitTeamPreviews);
+    document.addEventListener("DOMContentLoaded", initStaticTeamPreviews);
   } else {
-    initSummitTeamPreviews();
+    initStaticTeamPreviews();
   }
+
   if (typeof document$ !== "undefined") {
-    document$.subscribe(initSummitTeamPreviews);
+    document$.subscribe(initStaticTeamPreviews);
   }
 })();
 </script>
