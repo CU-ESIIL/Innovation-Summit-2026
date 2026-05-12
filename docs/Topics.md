@@ -8,6 +8,8 @@ Led by: [Esther Rolf](https://www.estherrolf.com/), [VeeVee Cai](https://arizona
 
 **Earth embeddings for sustainability solutions**: Earth embeddings, a type of compression of the original data source, keep viable information from environmental data while preparing it for use in AI models to make predictions. Break out groups can use cutting-edge Earth embeddings already developed by the ESIIL team and partners, e.g., the [MOSAIKS](https://www.mosaiks.org/) (Multi-task Observation using SAtellite Imagery and Kitchen Sinks) embedding method tailored to multispectral satellite imagery or computer vision models that identify wildlife in images. We seek to inspire teams to develop a critically-needed library of approaches for embeddings that leverage the variety of environmental biology data (e.g., acoustic data, satellite data, landscape data, camera-trap data, eDNA data, and many others) that will enable us to use AI to ask questions about how species and ecosystems will respond to future global change.   
 
+[Earth Embeddings Manual](https://center-for-effective-global-action-cega.github.io/MOSAIKS-Training-Manual/en/)
+
 ### **Digital Twins: AI and CI tools for continental-scale near-real-time data stream, predictions, and forecasting systems** 
 
 Led by: [Cibele Amaral](https://cires.colorado.edu/people/cibele-hummel-do-amaral) and [Virginia Iglesias](https://cires.colorado.edu/people/virginia-iglesias)
@@ -19,6 +21,8 @@ Led by: [Cibele Amaral](https://cires.colorado.edu/people/cibele-hummel-do-amara
 Led by: [Cassie Buhler](https://cassiebuhler.github.io/) and [Ty Tuff](https://cires.colorado.edu/people/ty-tuff)
 
 **Best practices for using large language models for sustainability**: Large language models provide powerful new capabilities for scientific synthesis, enabling researchers and stakeholders to rapidly integrate information, generate hypotheses, and construct analytical workflows that accelerate environmental discovery and solutions generation. As conservation challenges intensify, LLMs will become important tools for exploring environmental futures—helping [decision makers compare alternative trajectories and conduct spatial planning](https://cu-esiil.github.io/AI-opt-decision-making/), evaluate new text-derived data about threatened species, and assess global change impacts through natural language processing of social media. The rapid uptake of LLMs in the context of sustainability, however, raises critical questions about how to quantify uncertainty, detect and mitigate bias, and ensure environmentally responsible and energy-efficient workflows. Break out groups will explore these emerging challenges and opportunities, helping to develop [community-based best practices](https://esiil.org/working-groups/envirollm-guidelines) for using LLMs to advance both environmental understanding and sustainability-oriented decision making. 
+
+[LLM Lesson Exemplar](https://cu-esiil.github.io/LLM_lesson_exemplar/)
 
 ### **AI for causal inference** 
 
