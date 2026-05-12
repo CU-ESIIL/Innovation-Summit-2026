@@ -176,30 +176,22 @@ body:has(.summit-team-gallery) .md-content__inner {
   background: var(--md-default-bg-color);
   border: 1px solid var(--md-default-fg-color--lightest);
   box-shadow: 0 0.4rem 1.2rem rgba(0,0,0,0.12);
-  transition: transform 180ms ease, box-shadow 180ms ease;
-}
-
-.summit-team-card:hover {
-  transform: translateY(-6px) scale(1.02);
-  box-shadow: 0 0.8rem 2rem rgba(0,0,0,0.18);
 }
 
 .site-preview {
   position: relative;
   width: 100%;
-  height: 255px;
+  height: 230px;
   overflow: hidden;
   background: #f4f4f4;
 }
 
 .site-preview iframe {
-  display: block;
-  width: 1200px;
+  width: 1440px;
   height: 900px;
   border: 0;
   pointer-events: none;
-
-  transform: scale(0.28);
+  transform: scale(0.22) translateX(-260px);
   transform-origin: top left;
 }
 
@@ -211,21 +203,15 @@ body:has(.summit-team-gallery) .md-content__inner {
 }
 
 @media screen and (max-width: 1100px) {
-  .summit-team-gallery {
-    grid-template-columns: repeat(3, 1fr);
-  }
+  .summit-team-gallery { grid-template-columns: repeat(3, 1fr); }
 }
 
 @media screen and (max-width: 800px) {
-  .summit-team-gallery {
-    grid-template-columns: repeat(2, 1fr);
-  }
+  .summit-team-gallery { grid-template-columns: repeat(2, 1fr); }
 }
 
 @media screen and (max-width: 520px) {
-  .summit-team-gallery {
-    grid-template-columns: 1fr;
-  }
+  .summit-team-gallery { grid-template-columns: 1fr; }
 }
 </style>
 
