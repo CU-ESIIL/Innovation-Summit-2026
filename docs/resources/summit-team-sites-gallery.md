@@ -149,16 +149,9 @@ hide:
 </a>
 
 </div>
-
 <style>
-body:has(.summit-team-gallery) .md-content {
-  max-width: none;
-}
-
-body:has(.summit-team-gallery) .md-content__inner {
-  max-width: 92rem;
-  margin: 0 auto;
-}
+body:has(.summit-team-gallery) .md-content { max-width: none; }
+body:has(.summit-team-gallery) .md-content__inner { max-width: 92rem; margin: 0 auto; }
 
 .summit-team-gallery {
   display: grid;
@@ -189,38 +182,30 @@ body:has(.summit-team-gallery) .md-content__inner {
   width: 100%;
   aspect-ratio: 4 / 3;
   overflow: hidden;
-  background: #f4f4f4;
+  background:
+    radial-gradient(circle at top left, rgba(53,196,222,0.22), transparent 35%),
+    linear-gradient(135deg, #ffffff, #eef7fb);
 }
 
 .site-preview iframe {
   display: none;
 }
 
-.team-preview-card {
+.live-title-preview {
   height: 100%;
-  min-height: 100%;
+  padding: 1.2rem;
   display: flex;
-  flex-direction: column;
-  justify-content: center;
   align-items: center;
-  gap: 0.55rem;
-  background:
-    radial-gradient(circle at top left, rgba(53, 196, 222, 0.22), transparent 34%),
-    linear-gradient(135deg, #ffffff, #eef7fb);
+  justify-content: center;
+  text-align: center;
 }
 
-.team-preview-title {
-  font-size: clamp(2rem, 4vw, 3.4rem);
+.live-title-preview h2 {
+  margin: 0;
+  color: #204761;
+  font-size: clamp(1.6rem, 3vw, 2.7rem);
+  line-height: 1.08;
   font-weight: 900;
-  line-height: 1;
-  color: #204761;
-}
-
-.team-preview-subtitle {
-  font-size: clamp(0.9rem, 1.5vw, 1.15rem);
-  font-weight: 700;
-  color: #204761;
-  opacity: 0.82;
 }
 
 .summit-team-label {
@@ -231,52 +216,58 @@ body:has(.summit-team-gallery) .md-content__inner {
 }
 
 @media screen and (max-width: 1100px) {
-  .summit-team-gallery {
-    grid-template-columns: repeat(3, 1fr);
-  }
+  .summit-team-gallery { grid-template-columns: repeat(3, 1fr); }
 }
 
 @media screen and (max-width: 800px) {
-  .summit-team-gallery {
-    grid-template-columns: repeat(2, 1fr);
-  }
+  .summit-team-gallery { grid-template-columns: repeat(2, 1fr); }
 }
 
 @media screen and (max-width: 520px) {
-  .summit-team-gallery {
-    grid-template-columns: 1fr;
-  }
+  .summit-team-gallery { grid-template-columns: 1fr; }
 }
 </style>
 
 <script>
 (function () {
-  function initStaticTeamPreviews() {
+  function initLiveTitlePreviews() {
     document.querySelectorAll(".summit-team-card").forEach((card) => {
-      const label = card.querySelector(".summit-team-label")?.textContent?.trim() || "Team";
       const preview = card.querySelector(".site-preview");
+      const iframe = preview?.querySelector("iframe");
+      const fallback = card.querySelector(".summit-team-label")?.textContent?.trim() || "Team";
 
-      if (!preview || preview.dataset.staticPreviewReady === "true") return;
+      if (!preview || !iframe || iframe.dataset.liveTitleBound === "true") return;
+      iframe.dataset.liveTitleBound = "true";
 
-      preview.dataset.staticPreviewReady = "true";
+      const titleBox = document.createElement("div");
+      titleBox.className = "live-title-preview";
+      titleBox.innerHTML = `<h2>${fallback} Home: Make Me Your Own</h2>`;
+      preview.appendChild(titleBox);
 
-      preview.innerHTML = `
-        <div class="team-preview-card">
-          <div class="team-preview-title">${label}</div>
-          <div class="team-preview-subtitle">Make Me Your Own</div>
-        </div>
-      `;
+      iframe.addEventListener("load", () => {
+        try {
+          const doc = iframe.contentDocument;
+          const h1 = doc.querySelector("h1");
+          const title = h1?.textContent?.trim();
+
+          if (title) {
+            titleBox.innerHTML = `<h2>${title}</h2>`;
+          }
+        } catch (e) {
+          // keep fallback
+        }
+      });
     });
   }
 
   if (document.readyState === "loading") {
-    document.addEventListener("DOMContentLoaded", initStaticTeamPreviews);
+    document.addEventListener("DOMContentLoaded", initLiveTitlePreviews);
   } else {
-    initStaticTeamPreviews();
+    initLiveTitlePreviews();
   }
 
   if (typeof document$ !== "undefined") {
-    document$.subscribe(initStaticTeamPreviews);
+    document$.subscribe(initLiveTitlePreviews);
   }
 })();
 </script>
