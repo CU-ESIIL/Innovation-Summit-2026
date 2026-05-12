@@ -187,17 +187,20 @@ body:has(.summit-team-gallery) .md-content__inner {
 .site-preview {
   position: relative;
   width: 100%;
-  aspect-ratio: 4 / 3;
+  height: 255px;
   overflow: hidden;
   background: #f4f4f4;
 }
 
 .site-preview iframe {
   display: block;
-  width: 100%;
-  height: 100%;
+  width: 1200px;
+  height: 900px;
   border: 0;
   pointer-events: none;
+
+  transform: scale(0.28);
+  transform-origin: top left;
 }
 
 .summit-team-label {
@@ -224,7 +227,6 @@ body:has(.summit-team-gallery) .md-content__inner {
     grid-template-columns: 1fr;
   }
 }
-
 </style>
 
 <script>
